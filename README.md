@@ -1912,7 +1912,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Sprint 1 Velocity                | 20 points                                                                                                                                                            |
 | Sum of Story Points              | 20 points                                                                                                                                                            |
 
-#####         **5.2.1.2. Sprint Backlog 1.**
+#####         **5.2.2.2. Sprint Backlog 2.**
 | id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
 | GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
@@ -1923,6 +1923,53 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | GW06 | Apartado del usuario      | G06 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Jair Castillo | Done                                   |
 | GW07 | Apartado de publicaciones | G07 | Bounded Context Publicaciones   | Desarrollo e implementación de de la Publicaciones con sus respectivos componentes, modelos, servicios y paginas.             | 3                  | Adriano Cruz | -                                      |
 
+**5.2.2.3.Development Evidence for Sprint Review.**
+
+
+**5.2.2.4.Testing Suite Evidence for Sprint Review.**
+
+
+**5.2.2.5.Execution Evidence for Sprint Review.**
+
+En el segundo sprint, se llevó a cabo una implementación parcial de la aplicación web, que permite al usuario acceder y explorar ciertas funcionalidades. A continuación, se presentan algunas pruebas que respaldan este avance:
+
+Sección Publicaciones:
+
+![image](Imagenes/BD-Publicaciones.jpg)
+
+Sección Publicar Prendas:
+
+![image](Imagenes/BD-Publicaciones-Form.jpg)
+
+
+
+**5.2.2.6.Services Documentation Evidence for Sprint Review.**
+
+Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entregando tanto el landing page como la aplicación web. En el landing page, los usuarios pueden encontrar información detallada sobre el producto y la startup, mientras que en la aplicación web, pueden disfrutar de varias funcionalidades. Utilizamos un Fake API para simular datos, comenzando con un servidor JSON local y luego implementándolo en My JSON Server.
+
+Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Grupo-4/db-server)
+
+![image](Imagenes/Services-Documentation-Evidence-for-Sprint-Review.jpg)
+
+|**Endpoint**|**Details**|
+| :- | :- |
+|/envios| Información sobre envíos, incluyendo detalles como nombre, descripción, fecha de entrega, seguimiento, dirección y vendedor. |
+|/cartItems| Elementos seleccionados en el carrito de compras, mostrando nombre, precio y vendedor de cada producto. |
+|/deliveryCompany|Listado de compañías de entrega, con su respectivo ID y nombre. |
+|/products | Catálogo de productos disponibles, mostrando imagen, título, descripción, precio y calificación de cada artículo.|
+
+**5.2.2.7.Software Deployment Evidence for Sprint Review.**
+
+
+
+**5.2.2.8.Team Collaboration Insights during Sprint.**
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Alexander Jair Castillo Castillo |  |
+| Christopher Sebastian More Rondon |  |
+| Adriano Sebastian Cruz Palomino | Implementación del Bounded Context de Publicaciones |
+| Joaquin Antonio Cortez Quezada |  |
+| Ramos Najar Tony Alenxander |  |
 
 ## Conclusiones
 
