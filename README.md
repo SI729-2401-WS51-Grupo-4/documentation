@@ -1965,11 +1965,11 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Gru
 **5.2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
 | --- | --- |
-| Alexander Jair Castillo Castillo |  |
-| Christopher Sebastian More Rondon |  |
-| Adriano Sebastian Cruz Palomino | Implementación del Bounded Context de Publicaciones |
-| Joaquin Antonio Cortez Quezada |  |
-| Ramos Najar Tony Alenxander |  |
+| Alexander Jair Castillo Castillo | Implementación del Bounded Context Alquileres|
+| Christopher Sebastian More Rondon | Implementación del Bounded Context Transacciones|
+| Adriano Sebastian Cruz Palomino | Implementación del Bounded Context Publicaciones |
+| Joaquin Antonio Cortez Quezada | Implementación del Bounded Context Envíos|
+| Ramos Najar Tony Alenxander | Implementación del Bounded Context Categorías |
 
 ## Conclusiones
 
