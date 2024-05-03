@@ -1941,6 +1941,10 @@ Sección Publicar Prendas:
 
 ![image](Imagenes/BD-Publicaciones-Form.jpg)
 
+Sección Transacciones:
+
+![image](Imagenes/seccion-transacciones.png)
+
 
 
 **5.2.2.6.Services Documentation Evidence for Sprint Review.**
