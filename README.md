@@ -1968,7 +1968,11 @@ Sección Transacciones:
 
 ![image](Imagenes/seccion-transacciones.png)
 
+Sección Alquiler:
 
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/08d0c365-9dd9-42f7-89e4-56867b14bb1e)
+
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/821cf716-28b0-4689-909d-38c1042f91f7)
 
 **2.2.6.Services Documentation Evidence for Sprint Review.**
 
