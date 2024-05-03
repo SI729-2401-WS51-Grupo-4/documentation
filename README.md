@@ -2015,6 +2015,11 @@ Alquiler:
 
 Alquiler: [Enlace](https://daos-ws51-eventwear.web.app/home)
 
+Home:
+![image](Imagenes/Home.png)
+
+Alquiler: [Enlace](https://envios-e3810.web.app/home)
+
 **2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
 | --- | --- |
