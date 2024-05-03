@@ -1939,7 +1939,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 |AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|    |chore:project created in angular| |01/05/24|
 |christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/ChristopherMoreRondon|842b87f|transacciones| |02/05/24|
 |AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front| feature/AdrianoSebastianCruzPalomino |d2fabeb|feat: added product card component, product form component| |02/10/24|
-|     |    |    |  | |   |
+|U202211390/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/AlexanderCastilloCastillo|5de6a14|feat: added alquiler BC| |03/10/24|
 |     |    |    |  | |   |
 |     |    |    |  | |   |
 |     |    |    |  | |   |
@@ -1950,7 +1950,10 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 **2.2.4.Testing Suite Evidence for Sprint Review.**
 | Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
 |------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
-| ||| |   |   |
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/acceptance-test|main|e040aa2|feat: added acceptance-test||03/05/24|
+
+
+link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/acceptance-test
 
 **2.2.5.Execution Evidence for Sprint Review.**
 
