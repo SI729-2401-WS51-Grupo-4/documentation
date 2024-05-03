@@ -1982,6 +1982,14 @@ Sección Alquiler:
 
 ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/821cf716-28b0-4689-909d-38c1042f91f7)
 
+Seccion Lista envios:
+
+![image](Imagenes/BDenvio.png)
+
+Seccion Home:
+
+![image](Imagenes/Home.png)
+
 **2.2.6.Services Documentation Evidence for Sprint Review.**
 
 Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entregando tanto el landing page como la aplicación web. En el landing page, los usuarios pueden encontrar información detallada sobre el producto y la startup, mientras que en la aplicación web, pueden disfrutar de varias funcionalidades. Utilizamos un Fake API para simular datos, comenzando con un servidor JSON local y luego implementándolo en My JSON Server.
@@ -2015,10 +2023,15 @@ Alquiler:
 
 Alquiler: [Enlace](https://ws51-event-wear.web.app/home)
 
+Lista envios:
+![image](Imagenes/BDenvio.png)
+
+Lista envios: [Enlace](https://envios-e3810.web.app/micuenta/lista-envios)
+
 Home:
 ![image](Imagenes/Home.png)
 
-Alquiler: [Enlace](https://envios-e3810.web.app/home)
+Home: [Enlace](https://envios-e3810.web.app/home)
 
 **2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
