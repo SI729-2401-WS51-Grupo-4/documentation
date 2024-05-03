@@ -1936,16 +1936,10 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Repository | Branch | Commit ID | Commit Message| Commit Message Body | Commited On (Date) |
 |-------------------|--------|-----------|-------------------------|---------------------|--------------------|
 | christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front | master |c396475|chore: first commit|                    |30/04/24|
-|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|    |chore:project created in angular| |01/05/24|
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|f79918b|chore:project created in angular| |01/05/24|
 |christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/ChristopherMoreRondon|842b87f|transacciones| |02/05/24|
 |AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front| feature/AdrianoSebastianCruzPalomino |d2fabeb|feat: added product card component, product form component| |02/10/24|
 |U202211390/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/AlexanderCastilloCastillo|5de6a14|feat: added alquiler BC| |03/10/24|
-|     |    |    |  | |   |
-|     |    |    |  | |   |
-|     |    |    |  | |   |
-|     |    |    |  | |   |
-|     |    |    |  | |   |
-|     |    |    |  | |   |
 
 **2.2.4.Testing Suite Evidence for Sprint Review.**
 | Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
