@@ -1961,7 +1961,7 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Gru
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
-
+Transacciones: [Enlace](https://event-wear-transactions.web.app)
 
 **5.2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
