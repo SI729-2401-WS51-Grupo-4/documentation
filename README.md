@@ -1964,6 +1964,14 @@ Sección Publicar Prendas:
 
 ![image](Imagenes/BD-Publicaciones-Form.jpg)
 
+Sección Categorias:
+
+![image](Imagenes/BcCategorias1.png)
+
+![image](Imagenes/BcCategorias2.png)
+
+![image](Imagenes/BcCategorias3.png)
+
 Sección Transacciones:
 
 ![image](Imagenes/seccion-transacciones.png)
