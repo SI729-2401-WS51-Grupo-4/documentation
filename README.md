@@ -1957,6 +1957,7 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Gru
 |/cartItems| Elementos seleccionados en el carrito de compras, mostrando nombre, precio y vendedor de cada producto. |
 |/deliveryCompany|Listado de compañías de entrega, con su respectivo ID y nombre. |
 |/products | Catálogo de productos disponibles, mostrando imagen, título, descripción, precio y calificación de cada artículo.|
+|/purchases | Arreglo de compras realizadas, donde cada compra contiene los items adquiridos en la respectiva compra.|
 
 **5.2.2.7.Software Deployment Evidence for Sprint Review.**
 
