@@ -144,6 +144,15 @@ para cada integrante del equipo:
             6. Services Documentation Evidence for Sprint Review.
             7. Software Deployment Evidence for Sprint Review.
             8. Team Collaboration Insights during Sprint.
+        2. Sprint 2
+            1. Sprint Planning 2.
+            2. Sprint Backlog 2.
+            3. Development Evidence for Sprint Review.
+            4. Testing Suite Evidence for Sprint Review.
+            5. Execution Evidence for Sprint Review.
+            6. Services Documentation Evidence for Sprint Review.
+            7. Software Deployment Evidence for Sprint Review.
+            8. Team Collaboration Insights during Sprint.
 6. **Conclusiones.**
 7. **Bibliografía.**
 8. **Anexos.**
@@ -1894,8 +1903,8 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 ![image](Imagenes/Team-Collaboration-Insight-Sprint1-Contributors.jpg)
 
-####    5.2.2. Sprint 2
-#####         **5.2.2.1. Sprint Planning 2.**
+####    2.2. Sprint 2
+#####         **2.2.1. Sprint Planning 2.**
 | Sprint 2                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                         |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background       |
@@ -1912,7 +1921,7 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Sprint 1 Velocity                | 20 points                                                                                                                                                            |
 | Sum of Story Points              | 20 points                                                                                                                                                            |
 
-#####         **5.2.2.2. Sprint Backlog 2.**
+#####         **2.2.2. Sprint Backlog 2.**
 | id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
 | GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
@@ -1923,13 +1932,27 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | GW06 | Apartado del usuario      | G06 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Jair Castillo | Done                                   |
 | GW07 | Apartado de publicaciones | G07 | Bounded Context Publicaciones   | Desarrollo e implementación de de la Publicaciones con sus respectivos componentes, modelos, servicios y paginas.             | 3                  | Adriano Cruz | -                                      |
 
-**5.2.2.3.Development Evidence for Sprint Review.**
+**2.2.3.Development Evidence for Sprint Review.**
+| Repository | Branch | Commit ID | Commit Message| Commit Message Body | Commited On (Date) |
+|-------------------|--------|-----------|-------------------------|---------------------|--------------------|
+| christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front | master |c396475|chore: first commit|                    |30/04/24|
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|    |chore:project created in angular| |01/05/24|
+|christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/ChristopherMoreRondon|842b87f|transacciones| |02/05/24|
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front| feature/AdrianoSebastianCruzPalomino |d2fabeb|feat: added product card component, product form component| |02/10/24|
+|     |    |    |  | |   |
+|     |    |    |  | |   |
+|     |    |    |  | |   |
+|     |    |    |  | |   |
+|     |    |    |  | |   |
+|     |    |    |  | |   |
+|     |    |    |  | |   |
 
+**2.2.4.Testing Suite Evidence for Sprint Review.**
+| Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
+|------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
+| ||| |   |   |
 
-**5.2.2.4.Testing Suite Evidence for Sprint Review.**
-
-
-**5.2.2.5.Execution Evidence for Sprint Review.**
+**2.2.5.Execution Evidence for Sprint Review.**
 
 En el segundo sprint, se llevó a cabo una implementación parcial de la aplicación web, que permite al usuario acceder y explorar ciertas funcionalidades. A continuación, se presentan algunas pruebas que respaldan este avance:
 
@@ -1947,7 +1970,7 @@ Sección Transacciones:
 
 
 
-**5.2.2.6.Services Documentation Evidence for Sprint Review.**
+**2.2.6.Services Documentation Evidence for Sprint Review.**
 
 Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entregando tanto el landing page como la aplicación web. En el landing page, los usuarios pueden encontrar información detallada sobre el producto y la startup, mientras que en la aplicación web, pueden disfrutar de varias funcionalidades. Utilizamos un Fake API para simular datos, comenzando con un servidor JSON local y luego implementándolo en My JSON Server.
 
@@ -1963,11 +1986,17 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Gru
 |/products | Catálogo de productos disponibles, mostrando imagen, título, descripción, precio y calificación de cada artículo.|
 |/purchases | Arreglo de compras realizadas, donde cada compra contiene los items adquiridos en la respectiva compra.|
 
-**5.2.2.7.Software Deployment Evidence for Sprint Review.**
+**2.2.7.Software Deployment Evidence for Sprint Review.**
+
+Products:
+![image](Imagenes/Software-Deployment-Evidence-Sprint2-BD-Products.png)
+
+![image](Imagenes/BD-Publicaciones.jpg)
+Productos: [Enlace](https://event-wear-products.web.app/home)
 
 Transacciones: [Enlace](https://event-wear-transactions.web.app)
 
-**5.2.2.8.Team Collaboration Insights during Sprint.**
+**2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
 | --- | --- |
 | Alexander Jair Castillo Castillo | Implementación del Bounded Context Alquileres|
