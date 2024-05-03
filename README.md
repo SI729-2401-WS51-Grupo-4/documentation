@@ -2000,6 +2000,13 @@ Productos: [Enlace](https://event-wear-products.web.app/home)
 
 Transacciones: [Enlace](https://event-wear-transactions.web.app)
 
+Alquiler:
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/ba326175-cded-4e7d-8281-8d3d413fcb98)
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/08d0c365-9dd9-42f7-89e4-56867b14bb1e)
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/142842509/821cf716-28b0-4689-909d-38c1042f91f7)
+
+Alquiler: [Enlace](https://daos-ws51-eventwear.web.app/home)
+
 **2.2.8.Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
 | --- | --- |
