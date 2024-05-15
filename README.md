@@ -1113,6 +1113,83 @@ Dado que quiero explorar más contenido sin volver al menú principal,
 Cuando busco más opciones de navegación,
 Entonces el footer debería incluir enlaces a otras secciones importantes del sitio web como "Productos", "Servicios", "Eventos" y "Blog".
 
+<br><br>
+| User Story ID | US24   |
+|---------------|--------|
+| Epic ID       | EP04   |
+| Título        | Ver todas las categorías |
+
+### Descripción
+
+Como usuario, quiero dirigirme al carrito y revisar los productos agregados para realizar el pago de varios productos en una sola transacción. 
+
+### Criterios de aceptación
+
+### Escenario 1:Agregar prenda al carrito de compra
+Dado que el usuario se encuentra en la pantalla principal de la aplicación web
+y selecciona una prenda de su interés
+cuando selecciona agregar al carrito 
+y selecciona el icono del carrito
+entonces la aplicación le mostrará todas las prendas que se agregaron 
+
+### Escenario 2: Seleccionar prendas del carrito
+Dado que el usuario el usuario se encuentra en el carrito de compra
+y no quiere comprar todos las prendas que tiene agregadas
+cuando quita la selección de una prenda de su lista 
+entonces la aplicación no agrega esa prenda al momento de realizar el pago
+ 
+### Escenario 3: Realizar compra
+Dado que el usuario selecciona todas las prendas de su interés
+y da clic en pagar ahora
+Entonces la aplicación lo redirigirá al apartado donde podrá agregar su método de pago y proceder con su compra 
+
+<br><br>
+| User Story ID | US25   |
+|---------------|--------|
+| Epic ID       | EP03   |
+| Título        | Visualizar lista de envíos |
+
+### Descripción
+Como usuario, quiero poder visualizar los envíos de mis prendas para hacer un seguimiento del estado en el cual se encuentra el envio, ademas de visualizar los datos más importantes de cada prenda.
+
+### Criterios de aceptación
+
+### Escenario 1: Acceso a la lista de envíos
+Dado que el usuario tiene envíos pendientes.
+Cuando se encuentra en la pantalla principal de la aplicación web.
+Y selecciona el icono de envíos en la parte superior izquierda.
+Entonces, la aplicación muestra una lista ordenada de todas los envíos pendientes y realizados.
+ 
+### Escenario 2: Acceso a Detalles del envío
+Dado que puede visualizar todos sus envíos.
+Cuando se dirige a una carta sobre un envío en específico.
+Entonces, la aplicación la aplicación le mostrará los detalles más relevantes del envío como el estado del mismo, nombre del artículo, fecha de entrega, etc.
+
+
+<br><br>
+| User Story ID | US26   |
+|---------------|--------|
+| Epic ID       | EP02   |
+| Título        | Ver todas las categorías |
+
+### Descripción
+Como usuario, quiero poder ver todas las categorías de prendas disponibles en la aplicación.
+
+### Criterios de aceptación
+
+### Escenario 1: Acceder a categorías con más interacciones
+Dado que el usuario se encuentra en la página principal de la aplicación
+Cuando abre el menú desplegable
+Entonces la aplicación muestra una lista con las categorías con más interacciones de otros usuarios 
+
+### Escenario 2: Acceder a todas las categorías
+Dado que el usuario se encuentra en el menú desplegable 
+Cuando se dirige a la parte inferior
+y da clic en ver todas las categorías
+Entonces la aplicación muestra todas las categorías disponibles con una pequeña descripción de cada uno.
+
+
+
 ## Epics:
 
 | Epic                           | Descripción                                                                                                     |
@@ -1176,6 +1253,9 @@ Podemos promover activamente la plataforma a través de campañas de concienciac
 |**21**|**US21**|<p>**Sección “Contacto”**</p><p></p>|Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones.|**2**|
 |**22**|**US22**|<p>**Sección “Colaboración”**</p><p></p>|Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso.|**5**|
 |**23**|**US23**|<p>**Sección “Footer”**</p><p></p>|Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito.	|**2**|
+|**24**|**US24**|<p>**Ver carrito de compras”**</p><p></p>|Como usuario, quiero dirigirme al carrito y revisar los productos agregados para realizar el pago de varios productos en una sola transacción.	|**3**|
+|**25**|**US25**|<p>**Visualizar lista de envíos”**</p><p></p>|Como usuario, quiero poder visualizar los envíos de mis prendas para hacer un seguimiento del estado en el cual se encuentra el envio, ademas de visualizar los datos más importantes de cada prenda.	|**2**|
+|**26**|**US26**|<p>**Ver todas las categorías**</p><p></p>|Como usuario, quiero poder ver todas las categorías de prendas disponibles en la aplicación.	|**2**|
 
 
 ## Capítulo IV: Product Design
