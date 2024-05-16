@@ -22,7 +22,7 @@ agregar hisstorias de usuario y quien lo desarrollara
 | Resumen                          | Si bien logramos alcanzar las metas propuestas para el spring anterior y obtuvimos un resultado satisfactorio, consideramos que aun podemos mejorar tanto la organizacion de la informacion que se presenta en el landing page, asi como  retocar un poco el diseño de la misma |
 | **Sprint Goal & User Stories**   | 
 | Sprint n Goal |Implementar las funcionalidad de publicar prendar, visualizar prendas, categorias, carrito, lista de envios y realizar transaccion. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
-| Sprint 1 Velocity                | 47 points                                                                                                                                                            |
+| Sprint 2 Velocity                | 47 points                                                                                                                                                            |
 | Sum of Story Points              | 47 points                                                                                                                                                            |
 
 
@@ -42,5 +42,5 @@ agregar hisstorias de usuario y quien lo desarrollara
 | Resumen                          | Se logro completar con la mayoría de las historias de usuarios establecidas, consideramos tener más orden en el codigo que implementa cada uno en el proyecto, además de trabajar un número mayor de historias de usuario core del negocio.
 | **Sprint Goal & User Stories**   | 
 | Sprint n Goal |Implementar las funcionalidades de configuración de información del usuario, mostrar información detallada de la prenda, chat con los arrendadores y atención al cliente. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
-| Sprint 1 Velocity                | - points                                                                                                                                                            |
+| Sprint 3 Velocity                | - points                                                                                                                                                            |
 | Sum of Story Points              | - points                                                                                                                                                            |
