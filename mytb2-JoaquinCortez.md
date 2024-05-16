@@ -17,9 +17,9 @@ agregar hisstorias de usuario y quien lo desarrollara
 | Prepared By                      | Cortez Quezada, Joaquin Antonio	                                                                                                                                     |
 | PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
 | Sprint n - Review                |
-| Resumen                          | Se creará la aplicación web en su totalidad haciendo uso del framework Angular y archivos json                                                                       |
+| Resumen                          | Se logro desarrollar el landing page de nuestro startup de forma exitosa, considerando apartados como el footer, Nosotros, infomracion para cada segmento, entre otros. Entre los mienbros del equipo quedamos satisfechos con el resultado final |
 | Sprint n -1 Retrospective        |
-| Resumen                          | Se desarrollo la aplicacion web casi en su totalidad mediante html, css, js y Angular .                                                                              |
+| Resumen                          | Si bien logramos alcanzar las metas propuestas para el spring anterior y obtuvimos un resultado satisfactorio, consideramos que aun podemos mejorar tanto la organizacion de la informacion que se presenta en el landing page, asi como  retocar un poco el diseño de la misma |
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Velocity                | 20 points                                                                                                                                                            |
 | Sum of Story Points              | 20 points                                                                                                                                                            |
