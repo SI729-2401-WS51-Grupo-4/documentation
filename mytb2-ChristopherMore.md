@@ -1,5 +1,7 @@
 # TB2
 
+Link: [Enlace de trello](https://trello.com/invite/b/yj6sNGSU/ATTI8ce4c50d05153c4b59a20b8a6bbd5ee850D243B6/si720-2401-ws51-grupo-4)
+
 | Sprint 3                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                         |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**   |
