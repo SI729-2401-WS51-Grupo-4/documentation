@@ -1829,14 +1829,45 @@ En caso de detectar un problema crítico en la versión en producción, se estab
 
 Las correcciones se aplican en esta rama y después se fusionan tanto en main como en develop.
 
-Repositorio de Github:
+**Repositorios de GitHub**
 
-Estos enlaces proporcionan acceso directo a nuestros repositorios: [Ver enlace](https://www.google.com/url?q=https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage&sa=D&source=docs&ust=1713066378665893&usg=AOvVaw2Dk6NftbiM9rjYaePRO2Ox)
+A continuación, se proporcionan las URLs de los repositorios de GitHub para cada producto de nuestro proyecto:
 
-Enlace de Organización: [Ver enlace](https://github.com/upc-pre-202401-si729-ws51-eventwear)
+**Landing Page**
 
-Enlace de Landing Page: [Ver enlace](https://upc-pre-202401-si729-ws51-eventwear.github.io/LandingPage/)
+URL del repositorio: [Ver enlace](https://github.com/SI729-2401-WS51-Grupo-4/landing-page)
 
+URL del proyecto: [Ver enlace](https://si729-2401-ws51-grupo-4.github.io/landing-page/)
+
+**Web Services**
+
+Frontend Web Applications
+
+URL del repositorio:[Ver enlace](https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front)
+
+
+**Convenciones para Versioning y Commits**
+
+**Semantic Versioning**
+
+Aplicamos Semantic Versioning para nombrar nuestras releases. Cada release sigue la convención: major.minor.patch, por ejemplo, 1.0.0.
+Conventional Commits
+
+Para los textos de mensajes en nuestros commits, seguimos las normas de Conventional Commits. Ejemplos de convenciones incluyen:
+
+**feat**: Una nueva característica para el usuario.
+
+**fix**: Arreglo de un bug.
+
+**docs**: Cambios o adiciones a la documentación.
+
+**style**: Cambios que no afectan el código (espacios, formateo, etc.).
+
+**refactor**: Cambios en el código que no arreglan un bug ni añaden una característica.
+
+**test**: Adición o corrección de tests.
+
+**chore**: Cambios en la construcción del sistema o herramientas auxiliares y librerías.
 
 ####     1.3. Source Code Style Guide & Conventions.
 Aquí tienes un ejemplo de cómo podría ser el Source Code Style Guide & Coding Conventions para diferentes lenguajes basado en la descripción proporcionada:
