@@ -1113,6 +1113,83 @@ Dado que quiero explorar más contenido sin volver al menú principal,
 Cuando busco más opciones de navegación,
 Entonces el footer debería incluir enlaces a otras secciones importantes del sitio web como "Productos", "Servicios", "Eventos" y "Blog".
 
+<br><br>
+| User Story ID | US24   |
+|---------------|--------|
+| Epic ID       | EP04   |
+| Título        | Ver todas las categorías |
+
+### Descripción
+
+Como usuario, quiero dirigirme al carrito y revisar los productos agregados para realizar el pago de varios productos en una sola transacción. 
+
+### Criterios de aceptación
+
+### Escenario 1:Agregar prenda al carrito de compra
+Dado que el usuario se encuentra en la pantalla principal de la aplicación web
+y selecciona una prenda de su interés
+cuando selecciona agregar al carrito 
+y selecciona el icono del carrito
+entonces la aplicación le mostrará todas las prendas que se agregaron 
+
+### Escenario 2: Seleccionar prendas del carrito
+Dado que el usuario el usuario se encuentra en el carrito de compra
+y no quiere comprar todos las prendas que tiene agregadas
+cuando quita la selección de una prenda de su lista 
+entonces la aplicación no agrega esa prenda al momento de realizar el pago
+ 
+### Escenario 3: Realizar compra
+Dado que el usuario selecciona todas las prendas de su interés
+y da clic en pagar ahora
+Entonces la aplicación lo redirigirá al apartado donde podrá agregar su método de pago y proceder con su compra 
+
+<br><br>
+| User Story ID | US25   |
+|---------------|--------|
+| Epic ID       | EP03   |
+| Título        | Visualizar lista de envíos |
+
+### Descripción
+Como usuario, quiero poder visualizar los envíos de mis prendas para hacer un seguimiento del estado en el cual se encuentra el envio, ademas de visualizar los datos más importantes de cada prenda.
+
+### Criterios de aceptación
+
+### Escenario 1: Acceso a la lista de envíos
+Dado que el usuario tiene envíos pendientes.
+Cuando se encuentra en la pantalla principal de la aplicación web.
+Y selecciona el icono de envíos en la parte superior izquierda.
+Entonces, la aplicación muestra una lista ordenada de todas los envíos pendientes y realizados.
+ 
+### Escenario 2: Acceso a Detalles del envío
+Dado que puede visualizar todos sus envíos.
+Cuando se dirige a una carta sobre un envío en específico.
+Entonces, la aplicación la aplicación le mostrará los detalles más relevantes del envío como el estado del mismo, nombre del artículo, fecha de entrega, etc.
+
+
+<br><br>
+| User Story ID | US26   |
+|---------------|--------|
+| Epic ID       | EP02   |
+| Título        | Ver todas las categorías |
+
+### Descripción
+Como usuario, quiero poder ver todas las categorías de prendas disponibles en la aplicación.
+
+### Criterios de aceptación
+
+### Escenario 1: Acceder a categorías con más interacciones
+Dado que el usuario se encuentra en la página principal de la aplicación
+Cuando abre el menú desplegable
+Entonces la aplicación muestra una lista con las categorías con más interacciones de otros usuarios 
+
+### Escenario 2: Acceder a todas las categorías
+Dado que el usuario se encuentra en el menú desplegable 
+Cuando se dirige a la parte inferior
+y da clic en ver todas las categorías
+Entonces la aplicación muestra todas las categorías disponibles con una pequeña descripción de cada uno.
+
+
+
 ## Epics:
 
 | Epic                           | Descripción                                                                                                     |
@@ -1176,6 +1253,9 @@ Podemos promover activamente la plataforma a través de campañas de concienciac
 |**21**|**US21**|<p>**Sección “Contacto”**</p><p></p>|Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones.|**2**|
 |**22**|**US22**|<p>**Sección “Colaboración”**</p><p></p>|Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso.|**5**|
 |**23**|**US23**|<p>**Sección “Footer”**</p><p></p>|Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito.	|**2**|
+|**24**|**US24**|<p>**Ver carrito de compras”**</p><p></p>|Como usuario, quiero dirigirme al carrito y revisar los productos agregados para realizar el pago de varios productos en una sola transacción.	|**3**|
+|**25**|**US25**|<p>**Visualizar lista de envíos”**</p><p></p>|Como usuario, quiero poder visualizar los envíos de mis prendas para hacer un seguimiento del estado en el cual se encuentra el envio, ademas de visualizar los datos más importantes de cada prenda.	|**2**|
+|**26**|**US26**|<p>**Ver todas las categorías**</p><p></p>|Como usuario, quiero poder ver todas las categorías de prendas disponibles en la aplicación.	|**2**|
 
 
 ## Capítulo IV: Product Design
@@ -1678,22 +1758,49 @@ Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una h
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 1. Software Configuration Management.
-####     1.1. Software Development Environment Configuration.
+####     1.1. **Software Development Environment Configuration.**
+
 **Project Management:**
 
-WhatsApp: Aplicación de mensajería usada para comunicarnos y coordinar el avance del trabajo
-Github: Plataforma en donde se alojan repositorios para desarrollo de software. Usada para almacenar los archivos del proyecto.
+**-WhatsApp**
 
-**Requirements Management:**
+Propósito: Aplicación de mensajería usada para comunicarnos y coordinar el avance del trabajo.
 
-Google drive: Plataforma para almacenar archivos, en donde se subieron videos de las entrevistas y avances del trabajo.
-Miro: Espacio de trabajo utilizado para crear gráficos.
-Structurizr: Página para generar diagramas mediante código, utilizada para los diagramas de contexto, contenedores y componentes.
-Vertabello: Herramienta para diseñar de manera visual bases de datos.
+URL: [Ver enlace](https://chat.whatsapp.com/JgKGDzNADdS5FqRKn52OXz)
 
-**Product UX/UI Design:**
+**-GitHub**
 
-Figma: Herramienta para generar gráficos, utilizada para crear los wireframes y mockups del landing page.
+Propósito: Plataforma donde se alojan repositorios para desarrollo de software. Usada para almacenar los archivos del proyecto.
+
+URL: [Ver enlace](https://github.com/SI729-2401-WS51-Grupo-4)
+
+**Requirements Management :**
+
+**-Miro**
+
+Propósito: Espacio de trabajo utilizado para crear gráficos.
+URL:[Ver enlace](https://miro.com/app/board/uXjVKYhnuPY=/?share_link_id=746650668379)
+
+![image](https://i.ibb.co/v4QWv63/Wireflow-Diagrams.jpg)
+
+
+**Product UX/UI Design**
+
+**-Figma**
+Propósito: Herramienta para generar gráficos, utilizada para crear los wireframes y mockups del landing page.
+
+URL:[Ver enlace](https://www.figma.com/design/SGc4uyOlC5goPZhxDNM8aN/EventWear-Publico?node-id=10%3A2&t=Q2UsnZcarOtnaNdJ-1)
+
+![image](https://i.ibb.co/NLft983/Event-Wear-Publico.png)
+
+**Software Development**
+
+**-Visual Studio Code**
+
+Propósito: Editor de código fuente utilizado para desarrollar el software.
+
+![image](https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png)
+
 
 ####     1.2. Source Code Management.
 En nuestro proyecto, hemos implementado una estrategia que incluye el uso de GitFlow para una gestión eficaz del código fuente, complementada con GitHub para el control de versiones. A continuación, se explica cómo hemos integrado GitFlow en nuestro proceso de trabajo
