@@ -2067,6 +2067,8 @@ Seccion Home:
 
 ![image](Imagenes/Home.png)
 
+Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+
 **2.2.6.Services Documentation Evidence for Sprint Review.**
 
 Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entregando tanto el landing page como la aplicación web. En el landing page, los usuarios pueden encontrar información detallada sobre el producto y la startup, mientras que en la aplicación web, pueden disfrutar de varias funcionalidades. Utilizamos un Fake API para simular datos, comenzando con un servidor JSON local y luego implementándolo en My JSON Server.
@@ -2165,5 +2167,7 @@ Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental 
 ## Anexos
 
 Organización del proyect: https://github.com/upc-pre-202401-si729-ws51-eventwear
+
+Link del repositorio con el Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
 
 Link del video: https://drive.google.com/file/d/1u6S1d02ysTmwqHBC3NfMHfnmvZ3iORqn/view
