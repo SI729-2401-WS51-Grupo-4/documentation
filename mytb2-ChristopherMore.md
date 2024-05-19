@@ -18,5 +18,5 @@ Link: [Enlace de trello](https://trello.com/invite/b/yj6sNGSU/ATTI8ce4c50d05153c
 | Sum of Story Points              | 20 points                                                                                                                                                            |
 
 
-""Añadir en el sprint2 2.2.5 y al final
+## Añadir en el sprint2 2.2.5 y al final
 Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front 
