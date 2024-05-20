@@ -2166,8 +2166,18 @@ Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental 
 
 ## Anexos
 
+Enlace al Trello: https://trello.com/invite/b/yj6sNGSU/ATTI8ce4c50d05153c4b59a20b8a6bbd5ee850D243B6/si720-2401-ws51-grupo-4
+
 Organización del proyect: https://github.com/upc-pre-202401-si729-ws51-eventwear
 
-Link del repositorio con el Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+Enlace al repositorio de los acceptance tests: https://github.com/SI729-2401-WS51-Grupo-4/acceptance-testing
+
+Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+
+Enlace al repositorio del landing page: https://github.com/SI729-2401-WS51-Grupo-4/landing-page
+
+Enlace al repositorio de la base de datos: https://github.com/SI729-2401-WS51-Grupo-4/db-server
+
+Enlace al repositorio del platform: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
 
 Link del video: https://drive.google.com/file/d/1u6S1d02ysTmwqHBC3NfMHfnmvZ3iORqn/view
