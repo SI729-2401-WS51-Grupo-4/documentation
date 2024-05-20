@@ -20,3 +20,11 @@ Link: [Enlace de trello](https://trello.com/invite/b/yj6sNGSU/ATTI8ce4c50d05153c
 
 ## Añadir en el sprint2 2.2.5 y al final
 Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front 
+
+Enlace al repositorio de la base de datos: https://github.com/SI729-2401-WS51-Grupo-4/db-server
+
+Enlace al repositorio de los acceptance test: https://github.com/SI729-2401-WS51-Grupo-4/acceptance-testing
+
+Enlace al repositorio del landing page: https://github.com/SI729-2401-WS51-Grupo-4/landing-page
+
+Enlace al repositorio del platform: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
