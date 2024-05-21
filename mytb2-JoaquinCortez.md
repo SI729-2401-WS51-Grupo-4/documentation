@@ -36,9 +36,9 @@ agregar hisstorias de usuario y quien lo desarrollara
 | Location                         | Reunión realizada mediante Google Meet                                                                                                                               |
 | Prepared By                      | Cortez Quezada, Joaquin Antonio	                                                                                                                                     |
 | PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
-| Sprint n - 2 Review                |
+| Sprint n - 1 Review                |
 | Resumen                          | Se desarrollaron los apartados como el menu principal, publicacion de prenda, lista de categorias, carrito de compra, lista de envios |
-| Sprint n - 2 Retrospective        |
+| Sprint n - 1 Retrospective        |
 | Resumen                          | Se logro completar con la mayoría de las historias de usuarios establecidas, consideramos tener más orden en el codigo que implementa cada uno en el proyecto, además de trabajar un número mayor de historias de usuario core del negocio.
 | **Sprint Goal & User Stories**   | 
 | Sprint n Goal |Implementar las funcionalidades de configuración de información del usuario, mostrar información detallada de la prenda, chat con los arrendadores y atención al cliente. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
