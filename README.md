@@ -1994,12 +1994,14 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Prepared By                      | Cortez Quezada, Joaquin Antonio	                                                                                                                                     |
 | PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
 | Sprint n - Review                |
-| Resumen                          | Se creará la aplicación web en su totalidad haciendo uso del framework Angular y archivos json                                                                       |
+| Resumen                          | Se logro desarrollar el landing page de nuestro startup de forma exitosa, considerando apartados como el footer, Nosotros, información para cada segmento, entre otros. Entre los miembros del equipo quedamos satisfechos con el resultado final. |
 | Sprint n -1 Retrospective        |
-| Resumen                          | Se desarrollo la aplicacion web casi en su totalidad mediante html, css, js y Angular .                                                                              |
-| **Sprint Goal & User Stories**   |
-| Sprint 1 Velocity                | 20 points                                                                                                                                                            |
-| Sum of Story Points              | 20 points                                                                                                                                                            |
+| Resumen                          | Si bien logramos alcanzar las metas propuestas para el spring anterior y obtuvimos un resultado satisfactorio, consideramos que aun podemos mejorar tanto la organizacion de la informacion que se presenta en el landing page, asi como  retocar un poco el diseño de la misma |
+| **Sprint Goal & User Stories**   | 
+| Sprint n Goal |Implementar las funcionalidad de publicar prendar, visualizar prendas, categorias, carrito, lista de envios y realizar transaccion. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
+| Sprint 2 Velocity                | 47 points                                                                                                                                                            |
+| Sum of Story Points              | 47 points                                                                                                                                                            |
+
 
 #####         **2.2.2. Sprint Backlog 2.**
 | id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
