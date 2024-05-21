@@ -2002,6 +2002,9 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Sprint 2 Velocity                | 47 points                                                                                                                                                            |
 | Sum of Story Points              | 47 points                                                                                                                                                            |
 
+Durante el segundo sprint, el equipo siguio haceindo uso de la Trello como herramienta para organizar y asignar tareas desglosadas de las user stories según las habilidades de cada miembro.
+
+![image](Imagenes/trello-tp.png)
 
 #####         **2.2.2. Sprint Backlog 2.**
 | id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
