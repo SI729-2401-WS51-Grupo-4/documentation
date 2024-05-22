@@ -1998,15 +1998,18 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Sprint n -1 Retrospective        |
 | Resumen                          | Si bien logramos alcanzar las metas propuestas para el spring anterior y obtuvimos un resultado satisfactorio, consideramos que aun podemos mejorar tanto la organizacion de la informacion que se presenta en el landing page, asi como  retocar un poco el diseño de la misma |
 | **Sprint Goal & User Stories**   | 
-| Sprint n Goal |Implementar las funcionalidad de publicar prendar, visualizar prendas, categorias, carrito, lista de envios y realizar transaccion. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
+| Sprint n Goal |Implementar las funcionalidad de publicar prendas, visualizar prendas, categorias, carrito, lista de envios y realizar transaccion. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
 | Sprint 2 Velocity                | 47 points                                                                                                                                                            |
-| Sum of Story Points              | 47 points                                                                                                                                                            |
+| Sum of Story Points              | 47 points                                                                                                                                                            
 
-Durante el segundo sprint, el equipo siguio haceindo uso de la Trello como herramienta para organizar y asignar tareas desglosadas de las user stories según las habilidades de cada miembro.
+#####         **2.2.2. Sprint Backlog 2.**
+
+En el Sprint 2, el equipo de desarrollo ha avanzado significativamente en la implementación de varias funcionalidades clave del proyecto Event-Wear. El objetivo de este sprint fue desarrollar el front end utilizando el framework Angular. Se ha progresado en la pantalla principal, la lista de envíos, las categorías, el alquiler, las transacciones y las publicaciones, con tareas en distintas etapas de desarrollo.
+
+Durante este sprint, el equipo siguio haciendo uso de la Trello como herramienta para organizar y asignar tareas desglosadas de las user stories según las habilidades de cada miembro.
 
 ![image](Imagenes/trello-tp.png)
 
-#####         **2.2.2. Sprint Backlog 2.**
 | id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
 | GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
