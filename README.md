@@ -44,7 +44,7 @@ width=50%"/>
 
 ### Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://github.com/upc-pre-202401-si729-ws51-eventwear
+URL del repositorio para el reporte del proyecto: https://github.com/SI729-2401-WS51-Grupo-4/documentation
 
 TB1
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
@@ -1804,11 +1804,11 @@ Las correcciones se aplican en esta rama y después se fusionan tanto en main co
 
 Repositorio de Github:
 
-Estos enlaces proporcionan acceso directo a nuestros repositorios: [Ver enlace](https://www.google.com/url?q=https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage&sa=D&source=docs&ust=1713066378665893&usg=AOvVaw2Dk6NftbiM9rjYaePRO2Ox)
+Estos enlaces proporcionan acceso directo a nuestros repositorios: [Ver enlace](https://github.com/orgs/SI729-2401-WS51-Grupo-4/repositories)
 
-Enlace de Organización: [Ver enlace](https://github.com/upc-pre-202401-si729-ws51-eventwear)
+Enlace de Organización: [Ver enlace](https://github.com/SI729-2401-WS51-Grupo-4)
 
-Enlace de Landing Page: [Ver enlace](https://upc-pre-202401-si729-ws51-eventwear.github.io/LandingPage/)
+Enlace de Landing Page: [Ver enlace](https://github.com/SI729-2401-WS51-Grupo-4/landing-page)
 
 
 ####     1.3. Source Code Style Guide & Conventions.
@@ -2176,7 +2176,7 @@ Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental 
 
 Enlace al Trello: https://trello.com/invite/b/yj6sNGSU/ATTI8ce4c50d05153c4b59a20b8a6bbd5ee850D243B6/si720-2401-ws51-grupo-4
 
-Organización del proyect: https://github.com/upc-pre-202401-si729-ws51-eventwear
+Organización del proyecto: https://github.com/upc-pre-202401-si729-ws51-eventwear
 
 Enlace al repositorio de los acceptance tests: https://github.com/SI729-2401-WS51-Grupo-4/acceptance-testing
 
