@@ -1680,7 +1680,7 @@ Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una h
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 
-![image](Imagenes/Diagrams/ClassDiagramn.png)
+![image](Imagenes/Diagrams/ClassDiagram1.png)
 
 ####     7.2. Class Dictionary.
 
