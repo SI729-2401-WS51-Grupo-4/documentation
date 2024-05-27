@@ -2134,6 +2134,28 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 | Joaquin Antonio Cortez Quezada | Implementación del Bounded Context Envíos|
 | Ramos Najar Tony Alenxander | Implementación del Bounded Context Categorías |
 
+####     2.3. Sprint 3
+
+#####         **2.3.1. Sprint Planning 3.**
+| Sprint 3                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                         |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 16/05/2024                                                                                                                                                           |
+| Time                             | 12:00 horas (GMT-5)                                                                                                                                                  |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                                               |
+| Prepared By                      | Cortez Quezada, Joaquin Antonio	                                                                                                                                     |
+| PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
+| Sprint n - 1 Review                |
+| Resumen                          | Se desarrollaron los apartados como el menu principal, publicacion de prenda, lista de categorias, carrito de compra, lista de envios |
+| Sprint n - 1 Retrospective        |
+| Resumen                          | Se logro completar con la mayoría de las historias de usuarios establecidas, consideramos tener más orden en el codigo que implementa cada uno en el proyecto, además de trabajar un número mayor de historias de usuario core del negocio.
+| **Sprint Goal & User Stories**   | 
+| Sprint n Goal |Implementar las funcionalidades de configuración de información del usuario, mostrar información detallada de la prenda, chat con los arrendadores y atención al cliente. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
+| Sprint 3 Velocity                | 32 points                                                                                                                                                            |
+| Sum of Story Points              | 32 points                                                                                                                                                            |
+![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/104875297/99d8d471-0990-4e3b-968a-9c155dad62f0)
+
+
 ## Conclusiones
 
 En el desarrollo de nuestro proyecto "Event Wear", hemos abordado de manera integral los desafíos del consumo desmedido en eventos especiales, centrándonos en ofrecer una alternativa sostenible al fast fashion. A través del análisis de los Problem Statements establecidos, así como de los Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX, hemos evaluado el impacto de nuestra plataforma en relación con los objetivos planteados.
