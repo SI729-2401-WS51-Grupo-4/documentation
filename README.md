@@ -1752,7 +1752,7 @@ Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una h
 
 ### 8. **Database Design.**
 ####     8.1. Database Diagram.
-![image](Imagenes/Diagrams/databaseEvent.png)
+![image](Imagenes/Diagrams/databaseEvent1.png)
 
 
 
