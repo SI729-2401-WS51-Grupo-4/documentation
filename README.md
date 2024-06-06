@@ -2025,14 +2025,44 @@ Durante este sprint, el equipo siguio haciendo uso de la Trello como herramienta
 
 
 
-**2.2.3.Development Evidence for Sprint Review.**
+#### **2.2.3.Development Evidence for Sprint Review.**
+
+Durante este Sprint, el equipo de desarrollo ha logrado avances significativos en el proyecto Event Wear:
+
+##### **Configuración Inicial:**
+
+Establecida la estructura base del proyecto en Angular.
+
+#####  **Componentes de Producto:**
+
+Añadidos y mejorados los componentes de tarjeta y formulario de producto, mejorando la visualización y gestión de productos.
+
+#####  **Funcionalidad de Transacciones:**
+
+Implementadas características de transacciones para manejar alquileres y compras, incluyendo una capa de servicio e integración con componentes existentes.
+
+#####  **Bounded Contexts:**
+
+#### Alquiler: 
+Gestión de alquileres con servicios y modelos específicos.
+
+#### Categorías: 
+Gestión de categorías de productos con servicios y modelos necesarios.
+
+#### Envíos: 
+Gestión de envíos de productos, asegurando operaciones eficientes y estructuradas.
+
+Estos avances han establecido una base sólida para el desarrollo continuo, integrando funcionalidades clave y preparándose para futuras expansiones.
+
 | Repository | Branch | Commit ID | Commit Message| Commit Message Body | Commited On (Date) |
 |-------------------|--------|-----------|-------------------------|---------------------|--------------------|
-| christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front | master |c396475|chore: first commit|                    |30/04/24|
-|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|f79918b|chore:project created in angular| |01/05/24|
-|christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/ChristopherMoreRondon|842b87f|transacciones| |02/05/24|
-|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front| feature/AdrianoSebastianCruzPalomino |d2fabeb|feat: added product card component, product form component| |02/10/24|
-|U202211390/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/AlexanderCastilloCastillo|5de6a14|feat: added alquiler BC| |03/10/24|
+| christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front | master |c396475|chore: first commit|  Initial commit setting up the project structure.                  |30/04/24|
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front|master|f79918b|chore:project created in angular| Created the initial Angular project with the basic setup |01/05/24|
+|christopherMore1/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/ChristopherMoreRondon|842b87f|transacciones| Implemented transaction features for handling product rentals and purchases. Added service layer for transaction handling. Integrated transaction service with existing product components. Created unit tests for transaction features. |02/05/24|
+|AdrianoSCruzP/SI729-2401-WS51-Grupo-4/Event-Wear-front| feature/AdrianoSebastianCruzPalomino |d2fabeb|feat: added product card component, product form component| Added the product card component for displaying product details and the product form component for managing product entries. Styled components and added basic validation. |02/05/24|
+|U202211390/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/AlexanderCastilloCastillo|5de6a14|feat: added alquiler BC| Added the bounded context for managing product rentals, including necessary services and interfaces. Implemented domain models and repositories for rental management. |03/05/24|
+|TonyRamosNajar/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/TonyRamosNajar|ae4b2f2|feat: added Categorias BC| Added the bounded context for managing product categories, including necessary services and interfaces. Implemented domain models and repositories for category management. |03/05/24|
+|U202211390/SI729-2401-WS51-Grupo-4/Event-Wear-front|feature/JoaquinCortezQuezada|80f0972|feat: added Envíos BC| Added the bounded context for managing product shipments, including necessary services and interfaces. Implemented domain models and repositories for shipment management. |03/05/24|
 
 **2.2.4.Testing Suite Evidence for Sprint Review.**
 | Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
@@ -2044,7 +2074,8 @@ link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/acceptance-test
 
 **2.2.5.Execution Evidence for Sprint Review.**
 
-En el segundo sprint, se llevó a cabo una implementación parcial de la aplicación web, que permite al usuario acceder y explorar ciertas funcionalidades. A continuación, se presentan algunas pruebas que respaldan este avance:
+Durante este Segundo Sprint, logramos implementar con éxito un landing page front-end utilizando datos estáticos de un JSON. Este landing page integra los bounded contexts de publicaciones, publicar prenda, productos, categorías, alquileres, transacciones y envíos. Se creó una página principal atractiva y funcional que muestra productos destacados y ofrece una navegación intuitiva. Además, se implementaron componentes reutilizables para mostrar productos, categorías y detalles de alquiler y envío. Este Sprint fue un éxito en términos de implementación y funcionalidad, sentando las bases para el desarrollo futuro del proyecto.
+A continuación se evidencian las capturas de pantalla de dichos bounded contexts:
 
 Sección Publicaciones:
 
@@ -2081,6 +2112,8 @@ Seccion Home:
 ![image](Imagenes/Home.png)
 
 Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+
+Link del video explicativo: 
 
 **2.2.6.Services Documentation Evidence for Sprint Review.**
 
