@@ -1952,11 +1952,17 @@ Durante el primer sprint, se logró un avance parcial en la implementación de l
 ![image](Imagenes/seccion-home.jpg)
 2. Sección Segmentos
 ![image](Imagenes/seccion-segmentos.jpg)
-3. Sección Contactanos
+3. Sección Cómo funciona
+![image](Imagenes/seccion-como-funciona.jpg)
+4. Sección Beneficios
+![image](Imagenes/seccion-beneficios.jpg)
+5. Sección Visión y Misión
+![image](Imagenes/seccion-vision-mision.jpg)
+5. Sección Contactanos
 ![image](Imagenes/seccion-contactanos.jpg)
-4. Sección Iniciar Sesión
+6. Sección Iniciar Sesión
 ![image](Imagenes/seccion-iniciar-sesion.jpg)
-5. Sección Registrarse
+7. Sección Registrarse
 ![image](Imagenes/seccion-registrarse.jpg)
 
 
@@ -1964,11 +1970,26 @@ Durante el primer sprint, se logró un avance parcial en la implementación de l
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios. 
 #####         **2.1.7. Software Deployment Evidence for Sprint Review.**
 
-![image](Imagenes/software-deploy-evidence-for-sprint-review-image1.jpg)
+En esta primer Sprint, hemos desarrollado una Landing Page. Esta página inicial proporciona información relevante sobre nuestros productos y servicios. Para su desarrollo, hemos utilizado tecnologías web modernas y hemos seguido prácticas de diseño centradas en el usuario para asegurar una experiencia atractiva y funcional para nuestros visitantes. Por ultimo, se realizo el despliegue de la landing page con github pages
 
-![image](Imagenes/seccion-home.jpg)
+Link del despliegue de la landing page: https://si729-2401-ws51-grupo-4.github.io/landing-page/#home
 
-![image](Imagenes/seccion-segmentos.jpg)
+1. Sección home
+![image](Imagenes/seccion-home-desplegado.jpg)
+2. Sección Segmentos
+![image](Imagenes/seccion-segmentos-desplegado.jpg)
+3. Sección Cómo funciona
+![image](Imagenes/seccion-como-funciona-desplegado.jpg)
+4. Sección Beneficios
+![image](Imagenes/seccion-beneficios-desplegado.jpg)
+5. Sección Visión y Misión
+![image](Imagenes/seccion-vision-mision-desplegado.jpg)
+5. Sección Contactanos
+![image](Imagenes/seccion-contactanos-desplegado.jpg)
+6. Sección Iniciar Sesión
+![image](Imagenes/seccion-iniciar-sesion-desplegado.jpg)
+7. Sección Registrarse
+![image](Imagenes/seccion-registrarse-desplegado.jpg)
 
 #####         **2.1.8. Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
