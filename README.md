@@ -2133,6 +2133,8 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/SI729-2401-WS51-Gru
 
 **2.2.7.Software Deployment Evidence for Sprint Review.**
 
+En este sprint, desplegamos nuestro frontend. Cada miembro del equipo desarrolló un bounded context por separado, lo que resultó en múltiples despliegues del frontend. A continuación, se muestra la configuración y despliegue:
+
 Products:
 ![image](Imagenes/Software-Deployment-Evidence-Sprint2-BD-Products.png)
 
