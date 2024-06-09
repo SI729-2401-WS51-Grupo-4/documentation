@@ -2262,13 +2262,56 @@ Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories
 
 Enlace al repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint 3, se ha avanzado significativamente en la codificación y documentación de los servicios web relacionados con la entidad Categoría, Alquiler, Publicación, Transacción & Envíos. 
+
+##### Bounded Context Categoría
+
+Se ha completado la documentación de siete endpoints clave que cubren diversas acciones, desde la creación hasta la obtención y eliminación de categorías, así como la gestión de categorías favoritas.
+
+![image](Imagenes/RestfullCategoria.png)
+
+| Endpoint                   | Acción              | Verbo HTTP | Sintaxis de Llamada | Parámetros             | Ejemplo de Llamada        | Response                                                                                         |
+|----------------------------|---------------------|------------|---------------------|------------------------|----------------------------|--------------------------------------------------------------------------------------------------|
+| /api/categories            | Obtener todas       | GET        | /api/categories     | -                      | GET /api/categories       |  OK - Lista de todas las categorías                                                         |
+| /api/categories/{id}       | Obtener por ID      | GET        | /api/categories/{id}| ID de la categoría     | GET /api/categories/1     |  OK - Detalles de la categoría con ID 1                                                     |
+| /api/categories            | Crear               | POST       | /api/categories     | Datos de la categoría  | POST /api/categories      |  Created - Categoría creada con éxito                                                        |
+| /api/categories/{id}       | Actualizar por ID   | PUT        | /api/categories/{id}| ID de la categoría     | PUT /api/categories/1     |  OK - Detalles de la categoría actualizada con ID 1                                           |
+| /api/categories/{id}       | Eliminar por ID     | DELETE     | /api/categories/{id}| ID de la categoría     | DELETE /api/categories/1  |  No Content - Categoría eliminada con éxito                                                  |
+| /api/categories/{id}/favorite | Marcar como favorita | POST    | /api/categories/{id}/favorite | ID de la categoría | POST /api/categories/1/favorite |  OK - Categoría marcada como favorita                                                       |
+| /api/categories/{id}/favorite | Desmarcar como favorita | DELETE | /api/categories/{id}/favorite | ID de la categoría | DELETE /api/categories/1/favorite |  OK - Categoría desmarcada como favorita                                                 |
+
+##### Bounded Context Alquiler
+
+...
+
+![image]()
+
+##### Bounded Context Publicación
+
+...
+
+![image]()
+
+##### Bounded Context Transacción
+
+...
+
+![image]()
+
+##### Bounded Context Envíos
+
+...
+
+![image]()
+
 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 ### 5.3. Validation Interviews
