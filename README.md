@@ -2425,7 +2425,8 @@ Entrevistado 1:
     
     -https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/550756bef3ddf77d8a4300815e36c682b98ad3c3/Imagenes/imagen_2024-06-09_134722048.png
    
-4. **Resumen de la Entrevista**:
+3. **Resumen de la Entrevista**:
+
     - En la entrevista le solicitamos a la entrevistada que navegue por nuestra landing page a la vez que navegue por nuestra web application.
     - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario :
     - encontramos que es facil el uso de la navegacion, no encontro inconveniente alguno.
@@ -2439,14 +2440,42 @@ Entrevistado 2:
     - Distrito: San Miguel
 
 2. **Grabación de la Entrevista**:
-    - [Link de la entrevista.]([https://drive.google.com/file/d/1V2RLAuA72JUo05eG65sFu5PP7tbod6zO/view?usp=sharing](https://drive.google.com/file/d/1V1_CZuIO5-w5LP3Uq7Plqlr_9fjPaZax/view?usp=sharing)
-    ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/main/Imagenes/entrevista_FabrizioMori_OpenSource.png)
+    - [Link de la entrevista.](https://drive.google.com/file/d/1V1_CZuIO5-w5LP3Uq7Plqlr_9fjPaZax/view?usp=sharing)
+
+    ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/main/Imagenes/entrevista_FabrizioMori_OpenSource.png?raw=true)
     
    
 4. **Resumen de la Entrevista**:
     - En la entrevista le mostramos a nuestro usuario la navegacion por la pagina, asi como se le explica las caracteristicas.
     - Considera la navegacion sensilla de usar.
     - Cree que algunas partes del diseño podrian mejorarse para ser mas variadas.
+
+Entrevistado 3:
+
+1. **Datos del Entrevistado**:
+    - Nombres: Diego Antonio
+    - Apellidos: Salinas Casaico
+    - Edad: 19
+    - Distrito: San Martin de Porres
+
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista](https://drive.google.com/file/d/1VhKUb4Hv7XL0DcpUcngb_xbjQEO2K6P7/view?usp=sharing)
+    
+    ![image](Imagenes/entrevista-2.jpg)
+
+3. **Resumen de la Entrevista**:
+
+    Evaluación de la Landing Page:
+
+    - Facilidad de uso: Diego encuentra la landing page bien distribuida y navegable, pero nota una inconsistencia en los colores utilizados (verde, azul y blanco).
+    - Diseño visual: Le gusta la animación en los botones y sugiere que debería aplicarse a todos los botones. Prefiere la fuente moderna utilizada en algunos títulos y recomienda que los subtítulos mantengan esa consistencia. Encuentra que algunos bordes suavizados funcionan bien, pero otros elementos requieren mejoras visuales.
+    - Calificación: 4.5 sobre 5. Diego aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+    Evaluación del Frontend:
+
+    - Funcionalidad: La aplicación permite navegar fácilmente por productos, agregar al carrito, gestionar pagos y preferencias de usuario, y comunicarse con arrendadores.
+    - Diseño y usabilidad: Diego aprecia el color y la organización de la interfaz. Le gusta que la navegación se pueda realizar en pocos clics. Sugiere centrado y estilización de algunos elementos como los cuadros de texto.
+    - Calificación: 4 sobre 5. Aunque está satisfecho con la funcionalidad, ve áreas de mejora en la consistencia y estilo de algunos elementos visuales.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
