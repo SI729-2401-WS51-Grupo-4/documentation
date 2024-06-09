@@ -2384,6 +2384,24 @@ Entrevistado 1:
     - En la entrevista le solicitamos a la entrevistada que navegue por nuestra landing page a la vez que navegue por nuestra web application.
     - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario :
     - encontramos que es facil el uso de la navegacion, no encontro inconveniente alguno.
+  
+
+Entrevistado 2:
+
+1. **Datos del Entrevistado**:
+    - Nombre: Fabrizio Mori
+    - Edad: 18
+    -distrito: San Miguel
+
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista.]([https://drive.google.com/file/d/1V2RLAuA72JUo05eG65sFu5PP7tbod6zO/view?usp=sharing](https://drive.google.com/file/d/1V1_CZuIO5-w5LP3Uq7Plqlr_9fjPaZax/view?usp=sharing)
+    
+    
+   
+4. **Resumen de la Entrevista**:
+    - En la entrevista le mostramos a nuestro usuario la navegacion por la pagina, asi como se le explica las caracteristicas.
+    - Considera la navegacion sensilla de usar.
+    - Cree que algunas partes del diseño podrian mejorarse para ser mas variadas.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
