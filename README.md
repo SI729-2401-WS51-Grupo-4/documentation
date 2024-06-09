@@ -2211,25 +2211,26 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 | Sum of Story Points              | 32 points                                                                                                                                                            |
 ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/104875297/99d8d471-0990-4e3b-968a-9c155dad62f0)
 
-####5.2.3.2.Sprint Backlog 3.
+#### 5.2.3.2.Sprint Backlog 3.
 
 
-####5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.3.Development Evidence for Sprint Review.
 
 
-####5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
 
-####5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Enlace al repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 
-####5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 
-####5.2.3.7.Software Deployment Evidence for Sprint Review.
-
-
-####5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 
 ### 5.3. Validation Interviews
