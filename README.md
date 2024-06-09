@@ -2211,6 +2211,97 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 | Sum of Story Points              | 32 points                                                                                                                                                            |
 ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/assets/104875297/99d8d471-0990-4e3b-968a-9c155dad62f0)
 
+####5.2.3.2.Sprint Backlog 3.
+
+
+####5.2.3.3.Development Evidence for Sprint Review.
+
+
+####5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+
+####5.2.3.5.Execution Evidence for Sprint Review.
+
+
+####5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+
+####5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
+####5.2.3.8.Team Collaboration Insights during Sprint.
+
+
+### 5.3. Validation Interviews
+
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto. Se debe realizar entrevistas de validación en las que usuarios de los segmentos objetivo interactúen con el landing page y con las aplicaciones. Incluye secciones internas para Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas. Para el proceso de validación debe aplicarse el formato de evaluación heurística indicado para el proyecto.
+
+### 5.3.1. Diseño de Entrevistas
+
+El diseño de entrevistas implica establecer los elementos a incluir en la sesión de validación para cada segmento objetivo, considerando tanto el Landing Page como las aplicaciones. Aquí se especifican los user flows que formarán parte del proceso de validación.
+
+1. **Objetivo de la Entrevista**:
+    - Validar la usabilidad y efectividad del landing page y de las aplicaciones.
+    - Recoger feedback sobre la experiencia del usuario y áreas de mejora.
+2. **Perfil del Entrevistado**:
+    - Usuarios que pertenecen a los segmentos objetivo previamente identificados.
+    - Diversificar los perfiles en términos de edad, género y familiaridad con la tecnología.
+3. **Formato de las Preguntas**:
+    - **Preguntas Abiertas**: ¿Qué te pareció la facilidad de uso del landing page?
+    - **Preguntas Cerradas**: En una escala del 1 al 5, ¿cómo calificarías la navegación en la aplicación?
+    - **Tareas Específicas**: Pedir a los usuarios que completen tareas como registrar una cuenta nueva, buscar un evento, y alquilar una prenda.
+4. **Estructura de la Entrevista**:
+    - **Introducción**: Explicar el propósito de la entrevista y obtener consentimiento para la grabación.
+    - **Tareas**: Observar y anotar cómo los usuarios interactúan con la plataforma.
+    - **Conclusión**: Preguntar sobre las impresiones generales y sugerencias.
+
+### 5.3.2. Registro de Entrevistas
+
+Para cada segmento, se deben realizar de 3 a 5 entrevistas. La información a registrar incluye:
+
+1. **Datos del Entrevistado**:
+    - Nombres, apellidos, edad, distrito.
+2. **Grabación de la Entrevista**:
+    - Subir el video a Microsoft Stream con un URL específico.
+    - Incluir un screenshot de un cuadro del video y el timing donde inicia la entrevista y su duración.
+3. **Resumen de la Entrevista**:
+    - Descripción de las principales apreciaciones del entrevistado respecto a las tareas asignadas.
+    - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información y diseño de la experiencia propuesta. Se utilizará la estructura del formato para evaluaciones de heurísticas indicado en el Anexo D.
+
+1. **Selección de Heurísticas**: Utilizar las 10 heurísticas de Nielsen como base.
+    - **Ejemplos de Heurísticas**:
+        - **Usabilidad**: Libertad y control del usuario.
+        - **Diseño Inclusivo**: Proporcionar experiencias comparables.
+        - **Arquitectura de Información**: ¿Es usable? ¿Es encontrable?
+2. **Evaluadores**: Expertos en usabilidad que revisen la interfaz de manera independiente.
+3. **Proceso de Evaluación**:
+    - Identificar problemas de usabilidad.
+    - Categorizar los problemas según su severidad utilizando una escala del 1 al 4 (Problema superficial a Problema muy grave).
+4. **Reporte**:
+    - Documentar los problemas de usabilidad encontrados y sugerir soluciones.
+    - **Ejemplo**:
+        - **Problema**: No hay un control que permita regresar a la tienda durante el trámite de compra.
+        - **Severidad**: 3 (Problema mayor).
+        - **Recomendación**: Implementar un botón que permita al usuario regresar a la tienda sin perder los cambios realizados en el carrito de compras.
+
+### 5.4. Video About-the-Product
+
+El video "About-the-Product" es una herramienta visual clave para comunicar las características y beneficios del producto a una audiencia más amplia. Este video debe:
+
+1. **Duración**: Entre 3 a 5 minutos.
+2. **Contenido**:
+    - **Introducción**: Breve presentación del problema que el producto resuelve.
+    - **Demostración**: Mostrar el producto en acción, destacando sus principales características y funcionalidades.
+    - **Testimonios**: Incluir testimonios de usuarios que han probado el producto y puedan hablar de su experiencia.
+    - **Conclusión**: Resumir los beneficios clave y hacer un llamado a la acción, como visitar el sitio web o contactar para más información.
+3. **Formato**: El video debe ser de alta calidad, con buen audio y video. Utilizar gráficos y texto para resaltar puntos importantes.
+4. **Distribución**: Subir el video a una plataforma accesible como YouTube o Microsoft Stream y proporcionar un enlace en el informe del proyecto.
+
+
 
 ## Conclusiones
 
