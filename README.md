@@ -2419,11 +2419,11 @@ Entrevistado 2:
 1. **Datos del Entrevistado**:
     - Nombre: Fabrizio Mori
     - Edad: 18
-    -distrito: San Miguel
+    - Distrito: San Miguel
 
 2. **Grabación de la Entrevista**:
     - [Link de la entrevista.]([https://drive.google.com/file/d/1V2RLAuA72JUo05eG65sFu5PP7tbod6zO/view?usp=sharing](https://drive.google.com/file/d/1V1_CZuIO5-w5LP3Uq7Plqlr_9fjPaZax/view?usp=sharing)
-    
+    ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/main/Imagenes/entrevista_FabrizioMori_OpenSource.png)
     
    
 4. **Resumen de la Entrevista**:
