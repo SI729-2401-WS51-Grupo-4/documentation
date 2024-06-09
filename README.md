@@ -2296,11 +2296,9 @@ Enlace al repositorio del Backend: https://github.com/SI729-2401-WS51-Grupo-4/Ev
 
 Durante este sprint 3, se ha avanzado significativamente en la codificación y documentación de los servicios web relacionados con la entidad Categoría, Alquiler, Publicación, Transacción & Envíos. 
 
-##### Bounded Context Categoría
+##### Bounded Context Category
 
 Se ha completado la documentación de siete endpoints clave que cubren diversas acciones, desde la creación hasta la obtención y eliminación de categorías, así como la gestión de categorías favoritas.
-
-![image](Imagenes/RestfullCategoria.png)
 
 | Endpoint                   | Acción              | Verbo HTTP | Sintaxis de Llamada | Parámetros             | Ejemplo de Llamada        | Response                                                                                         |
 |----------------------------|---------------------|------------|---------------------|------------------------|----------------------------|--------------------------------------------------------------------------------------------------|
@@ -2312,29 +2310,44 @@ Se ha completado la documentación de siete endpoints clave que cubren diversas 
 | /api/categories/{id}/favorite | Marcar como favorita | POST    | /api/categories/{id}/favorite | ID de la categoría | POST /api/categories/1/favorite |  OK - Categoría marcada como favorita                                                       |
 | /api/categories/{id}/favorite | Desmarcar como favorita | DELETE | /api/categories/{id}/favorite | ID de la categoría | DELETE /api/categories/1/favorite |  OK - Categoría desmarcada como favorita                                                 |
 
-##### Bounded Context Alquiler
+##### Bounded Context Rent
 
-...
+Se ha completado la documentación de seis endpoints clave que cubren diversas acciones, como la actualización y agregación de artículos en el carrito, la obtención de los artículos del carrito de un usuario y la eliminación de artículos específicos del carrito
 
-![image]()
+| Método | Endpoint                      | Descripción                                      | Response |
+|--------|-------------------------------|--------------------------------------------------| -------- |
+| PUT    | /cart/update                  | Actualiza un artículo en el carrito.            | OK - Actalización correcta del carrito |
+| POST   | /cart/add                     | Agrega un artículo al carrito.                   | Ok - Artículo agregado correctamente |
+| GET    | /cart/items/{userid}          | Obtiene los artículos del carrito de un usuario.| OK  |
+| GET    | /cart/items/all               | Obtiene todos los artículos del carrito.        | OK|
+| GET    | /cart/id/{userid}             | Obtiene el carrito completo de un usuario.      | OK | 
+| DELETE | /cart/delete/{userid}/{cartItemId} | Elimina un artículo específico del carrito. | OK - Artículo eliminado del carrito correctamente |
 
-##### Bounded Context Publicación
 
-...
+##### Bounded Context Publication
 
-![image]()
+Se ha completado la documentación de diez endpoints clave que abarcan diversas acciones relacionadas con las publicaciones. Estos endpoints permiten la actualización, creación y eliminación de publicaciones, así como la gestión de comentarios y la obtención de detalles específicos de las publicaciones y sus comentarios.
 
-##### Bounded Context Transacción
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| PUT    | /api/v1/publications/{publicationId}/update-publication | Actualiza una publicación específica.                      | OK (200)                                                     |
+| POST   | /api/v1/publications/{publicationid}/add-comment     | Agrega un comentario a una publicación.                    | OK (200)                                                     |
+| POST   | /api/v1/publications/create-publication              | Crea una nueva publicación.                                | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}                 | Obtiene los detalles de una publicación específica.        | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/garment         | Obtiene los detalles de la prenda asociada a una publicación. | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/comments        | Obtiene los comentarios de una publicación específica.     | OK (200)                                                     |
+| GET    | /api/v1/publications/{lessorid}/publications        | Obtiene todas las publicaciones de un arrendador específico. | OK (200)                                                     |
+| GET    | /api/v1/publications/all-publications                | Obtiene todas las publicaciones.                           | OK (200)                                                     |
+| GET    | /api/v1/publications/all-comments                   | Obtiene todos los comentarios.                            | OK (200)                                                     |
+| DELETE | /api/v1/publications/{publicationid}/delete-publication | Elimina una publicación específica.                        | OK (200)                                                     |
 
-...
+##### Bounded Context Transaction
 
-![image]()
+En proceso
 
-##### Bounded Context Envíos
+##### Bounded Context Shopping
 
-...
-
-![image]()
+En proceso
 
 
 
