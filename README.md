@@ -2273,8 +2273,6 @@ Enlace al repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-pla
 
 ### 5.3. Validation Interviews
 
-En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto. Se debe realizar entrevistas de validación en las que usuarios de los segmentos objetivo interactúen con el landing page y con las aplicaciones. 
-
 ### 5.3.1. Diseño de Entrevistas
 
 El diseño de entrevistas implica establecer los elementos a incluir en la sesión de validación para cada segmento objetivo, considerando tanto el Landing Page como las aplicaciones. Aquí se especifican los user flows que formarán parte del proceso de validación.
@@ -2288,7 +2286,7 @@ El diseño de entrevistas implica establecer los elementos a incluir en la sesi�
 3. **Formato de las Preguntas**:
     - **Preguntas Abiertas**: ¿Qué te pareció la facilidad de uso del landing page?
     - **Preguntas Cerradas**: En una escala del 1 al 5, ¿cómo calificarías la navegación en la aplicación?
-    - **Tareas Específicas**: Pedir a los usuarios que completen tareas como registrar una cuenta nueva, buscar un evento, y alquilar una prenda.
+    - **Tareas Específicas**: Pedir a los usuarios que completen tareas como registrar una cuenta nueva, buscar una prenda, y alquilar .
 4. **Estructura de la Entrevista**:
     - **Introducción**: Explicar el propósito de la entrevista y obtener consentimiento para la grabación.
     - **Tareas**: Observar y anotar cómo los usuarios interactúan con la plataforma.
@@ -2296,16 +2294,23 @@ El diseño de entrevistas implica establecer los elementos a incluir en la sesi�
 
 ### 5.3.2. Registro de Entrevistas
 
-Para cada segmento, se deben realizar de 3 a 5 entrevistas. La información a registrar incluye:
+Entrevistado 1:
 
 1. **Datos del Entrevistado**:
-    - Nombres, apellidos, edad, distrito.
+    - Nombres: Barbara Susana
+    - Apellidos: Quezada Portalatino
+    - Edad: 19
+    -distrito: San Juan de Lurigancho
+
 2. **Grabación de la Entrevista**:
-    - Subir el video a Microsoft Stream con un URL específico.
-    - Incluir un screenshot de un cuadro del video y el timing donde inicia la entrevista y su duración.
-3. **Resumen de la Entrevista**:
-    - Descripción de las principales apreciaciones del entrevistado respecto a las tareas asignadas.
-    - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario.
+    - [Link de la entrevista.](https://drive.google.com/file/d/1V2RLAuA72JUo05eG65sFu5PP7tbod6zO/view?usp=sharing)
+    
+    -https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/550756bef3ddf77d8a4300815e36c682b98ad3c3/Imagenes/imagen_2024-06-09_134722048.png
+   
+4. **Resumen de la Entrevista**:
+    - En la entrevista le solicitamos a la entrevistada que navegue por nuestra landing page a la vez que navegue por nuestra web application.
+    - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario :
+    - encontramos que es facil el uso de la navegacion, no encontro inconveniente alguno.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
