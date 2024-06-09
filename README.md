@@ -2260,7 +2260,7 @@ Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-Para este sprint se realizo parcialmente el backend, los Endpoints del bounded context de Publication y Rent ya estan completos, los bounded context de Shipping, Categories, Transactions. Tambien, unimos todos nuestros bounded context del Frontend.
+Para este sprint se realizo parcialmente el backend. Los Endpoints del bounded context de Publication y Rent ya estan completos. Los bounded context de Shipping, Categories, Transactions se desarrollaron parcialmente. Tambien, unimos todos nuestros bounded context del Frontend.
 
 Endpoints del Bounded Context Publication:
 
