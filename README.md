@@ -2274,6 +2274,12 @@ Enpoints del Bounded Context Rent:
 
 ![image](Imagenes/evidence-shopping.jpg)
 
+Enpoints del Bounded Context Category:
+
+![image](Imagenes/RestfullCategoria.png)
+
+![image](Imagenes/CodeCategoria.png)
+
 Frontend con todos los bounded context:
 
 ![image](Imagenes/execution-frontend.jpg)
@@ -2349,8 +2355,6 @@ En proceso
 
 En proceso
 
-
-
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 
@@ -2366,23 +2370,23 @@ En proceso
 
 ##### **RestfullApi Alquileres:**
 
-![image](Imagenes/AlquileresRFA)
+![image](Imagenes/AlquileresRFA.png)
 
 ##### **RestfullApi Transacciones:**
 
-![image](Imagenes/TransaccionesRFA)
+![image](Imagenes/TransaccionesRFA.png)
 
 ##### **RestfullApi Publicaciones:**
 
-![image](Imagenes/PublicacionesRFA)
+![image](Imagenes/PublicacionesRFA.png)
 
 ##### **RestfullApi Envíos:**
 
-![image](Imagenes/EnvíosRFA)
+![image](Imagenes/EnvíosRFA.png)
 
 ##### **RestfullApi Categorías:**
 
-![image](Imagenes/CategoríasRFA)
+![image](Imagenes/CategoríasRFA.png)
 
 
 ### 5.3. Validation Interviews
