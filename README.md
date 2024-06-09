@@ -2343,6 +2343,34 @@ Se ha completado la documentación de siete endpoints clave que cubren diversas 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Alexander Jair Castillo Castillo | Implementación del RestfullApi Alquileres|
+| Christopher Sebastian More Rondon | Implementación del RestfullApi Transacciones|
+| Adriano Sebastian Cruz Palomino | Implementación del RestfullApi Publicaciones |
+| Joaquin Antonio Cortez Quezada | Implementación del RestfullApi Envíos|
+| Ramos Najar Tony Alenxander | Implementación del RestfullApi Categorías |
+
+##### **RestfullApi Alquileres:**
+
+![image](Imagenes/AlquileresRFA)
+
+##### **RestfullApi Transacciones:**
+
+![image](Imagenes/TransaccionesRFA)
+
+##### **RestfullApi Publicaciones:**
+
+![image](Imagenes/PublicacionesRFA)
+
+##### **RestfullApi Envíos:**
+
+![image](Imagenes/EnvíosRFA)
+
+##### **RestfullApi Categorías:**
+
+![image](Imagenes/CategoríasRFA)
+
 
 ### 5.3. Validation Interviews
 
