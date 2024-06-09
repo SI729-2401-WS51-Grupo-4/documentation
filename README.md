@@ -2134,7 +2134,7 @@ Seccion Home:
 
 Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
 
-Link del video explicativo: 
+Link del video explicativo: https://drive.google.com/file/d/1QV5DwY8du4jbuqThlrAPlI0CRlew0UuX/view?usp=sharing
 
 **2.2.6.Services Documentation Evidence for Sprint Review.**
 
