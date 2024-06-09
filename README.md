@@ -2231,7 +2231,32 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron y algunas que vamos a implementar en el sprint 4. Para esta entrega nos centramos en mejorar el Front end y comenzar  con el desarrollo del backend.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test | main | 6bdde6e | feat: added US01 "Registro de usuario" | feat: added US01 "Registro de usuario" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US03 "Inicio de sesión" | feat: added US03 "Inicio de sesión" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US04 "Configuracion de perfil inicial" | feat: added US04 "Configuracion de perfil inicial" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US05 "Busqueda de prendas en la aplicacion" | feat: added US05 "Visualizar todas mis publicaciones" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US06 "Agregar filtros de busqeuda avanzada" | feat: added US06 "Agregar filtros de busqeuda avanzada" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US08 "Ver detalles de la prenda" | feat: added US08 "Ver detalles de la prenda " | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US10 "Ver seccion de alquiler en la aplicacion" | feat: added US10 "Ver seccion de alquiler en la aplicacion " | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US11 "Realizar alquiler de prendas" | feat: added US11 "Realizar alquiler de prendas" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US12 "Crear una nueva publicacion" | feat: added US12 "Crear una nueva publicacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US14 "Ayuda con problemas en la aplicacion" | feat: added US14 "Ayuda con problemas en la aplicacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US15 "Asesoramiento sobre moda sostenible" | feat: added US15 "Asesoramiento sobre moda sostenible" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US16 "Recopilacion de la informacion" | feat: US16 "Recopilacion de la informacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US17 "Beneficios al consumidor" | feat: added US17 "Beneficios al consumidor" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US18 "Seccion "Segmentos"" | feat: US18 "Seccion "Segmentos"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US19 "Seccion "Nosotros"" | feat: added US19 "Seccion "Nosotros"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US20 "Seccion "Header"" | feat: added US20 "Seccion "Header"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US22 "Seccion "Colaboracion" | feat: added US22 "Seccion "Colaboracion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US23 "Seccion "Footer" | feat: added US23 "Seccion "Footer" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US24 "Ver carrito de compras" | feat: added US24 "Ver carrito de compras" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US25 "Visualizar lista de envios" | feat: added US25 "Visualizar lista de envios| 15/05/2024 |
+|     |     | 6bdde6e | feat: added US26 "Ver todas las categorias" | feat: added US26 "Ver todas las categorias" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added us02 "Verificacion de correo electronico" | feat: added us02 "Verificacion de correo electronico" | 15/05/2024 |
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
