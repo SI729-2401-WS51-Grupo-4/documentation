@@ -2260,7 +2260,37 @@ Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-Enlace al repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
+Para este sprint se realizo parcialmente el backend, los Endpoints del bounded context de Publication y Rent ya estan completos, los bounded context de Shipping, Categories, Transactions. Tambien, unimos todos nuestros bounded context del Frontend.
+
+Endpoints del Bounded Context Publication:
+
+![image](Imagenes/EvidenceSprint3.jpg)
+
+![image](Imagenes/evidence-publication.jpg)
+
+Enpoints del Bounded Context Rent:
+
+![image](Imagenes/evidence-shopping-exec.jpg)
+
+![image](Imagenes/evidence-shopping.jpg)
+
+Frontend con todos los bounded context:
+
+![image](Imagenes/execution-frontend.jpg)
+
+![image](Imagenes/exec-frontend-publication.jpg)
+
+![image](Imagenes/exec-frontend-categorias.jpg)
+
+![image](Imagenes/exec-frontend-pagos-realizados.jpg)
+
+![image](Imagenes/exec-frontend-carrito.jpg)
+
+![image](Imagenes/exec-frontend-lista-envios.jpg)
+
+Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+
+Enlace al repositorio del Backend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
