@@ -2610,23 +2610,81 @@ Esta sección contiene el proceso de evaluación de las sesiones de validación 
         - **Diseño Inclusivo**: Proporcionar experiencias comparables.
         - **Arquitectura de Información**: ¿Es usable? ¿Es encontrable?
 2. **Evaluadores**: Expertos en usabilidad que revisen la interfaz de manera independiente.
-3. **Proceso de Evaluación**:
-    - Identificar problemas de usabilidad.
-    - Categorizar los problemas según su severidad utilizando una escala del 1 al 4 (Problema superficial a Problema muy grave).
-4. **Reporte**:
-    - Documentar los problemas de usabilidad encontrados y sugerir soluciones.
-        - **Problema 1**: No hay un control que permita regresar a la tienda durante el trámite de compra.
-        - **Severidad**: 3 (Problema mayor).
-        - **Recomendación**: Implementar un botón que permita al usuario regresar a la tienda sin perder los cambios realizados en el carrito de compras.
-          
-        - **Problema 2**: No hay un control que permita regresar de la seccion colabora con nosotros.
-        - **Severidad**: 2 (Problema menor).
-        - **Recomendación**: Implementar un botón que permita al usuario regresar a la tienda sin perder los cambios realizados en colabora con nosotros.
+
+### Evaluación de las Entrevistas según Heurísticas
+
+**Entrevista 1:**
+
+- **Descripción**: Se solicitó a la entrevistada navegar por la landing page y la web application.
+- **Dificultades**: No encontró inconvenientes, reportando que la navegación es fácil de usar.
+- **Aspectos Positivos**: Facilidad de navegación.
+
+**Entrevista 2**:
+
+- **Descripción**: Se mostró al usuario la navegación por la página y se explicaron las características.
+- **Dificultades**: Ninguna notable.
+- **Aspectos Positivos**: La navegación es sencilla de usar.
+- **Recomendación**: Mejorar el diseño para ser más variado.
+
+**Entrevista 3**:
+
+- **Evaluación de la Landing Page**:
+    - **Facilidad de uso**: Diego encuentra la landing page bien distribuida y navegable, pero nota una inconsistencia en los colores utilizados (verde, azul y blanco).
+    - **Diseño visual**: Le gusta la animación en los botones y sugiere que debería aplicarse a todos los botones. Prefiere la fuente moderna utilizada en algunos títulos y recomienda que los subtítulos mantengan esa consistencia. Encuentra que algunos bordes suavizados funcionan bien, pero otros elementos requieren mejoras visuales.
+    - **Calificación**: 4.5 sobre 5. Diego aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+- **Evaluación del Frontend**:
+    - **Funcionalidad**: La aplicación permite navegar fácilmente por productos, agregar al carrito, gestionar pagos y preferencias de usuario, y comunicarse con arrendadores.
+    - **Diseño y usabilidad**: Diego aprecia el color y la organización de la interfaz. Le gusta que la navegación se pueda realizar en pocos clics. Sugiere centrado y estilización de algunos elementos como los cuadros de texto.
+    - **Calificación**: 4 sobre 5. Aunque está satisfecho con la funcionalidad, ve áreas de mejora en la consistencia y estilo de algunos elementos visuales.
+
+**Entrevista 4**:
+
+- **Evaluación de la Landing Page**:
+    - **Facilidad de uso**: Miguel encuentra muy intuitiva y fácil de usar la landing page, ya que cuenta con opciones que permite dirigirse directamente a la información que le interesa.
+    - **Diseño visual**: Le gusta los colores seleccionados en la página, así mismo, considera la distribución de la información en nuestra landing una característica a destacar, aunque le parecería mejor colocar más imágenes relacionadas a la información que se presenta.
+    - **Calificación**: 4 sobre 5. Miguel aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+- **Evaluación del Frontend**:
+    - **Funcionalidad**: La aplicación le permite visualizar varios detalles sobre las prendas que se muestran en la aplicación, así como la permite chatear con los arrendadores para estar aun mas informado, aunque considera la falta de funciones donde el usuario pueda visualizar su historial de todas sus operaciones la aplicación un punto negativo.
+    - **Diseño y usabilidad**: Miguel aprecia el poder navergar por aplicación sin la necesidad de dar muchos clics, además considera los colores que se utilizan como un punto a favor.
+    - **Calificación**: 4 sobre 5. Miguel apreciaría si la aplicación considerara una mayor cantidad de funcionalidades para el usuario que publica prendas en la aplicación para que pueda mantener un registro de sus actividades.
+
+**Entrevista 5**:
+
+- **Evaluación de la Landing Page**:
+    - **Facilidad de uso**: El usuario encuentra la landing page intuitiva y fácil de usar, destacando las opciones para dirigirse directamente a la información de interés.
+    - **Diseño visual**: Aprecia los colores y la distribución de la información, aunque sugiere agregar más imágenes relacionadas.
+    - **Calificación**: 4 sobre 5. Se destaca la facilidad de navegación, pero se sugiere mejorar la consistencia visual.
+
+- **Evaluación del Frontend**:
+    - **Funcionalidad**: La aplicación es funcional, permite visualizar detalles de las prendas, chatear con arrendadores, pero carece de historial de operaciones.
+    - **Diseño y usabilidad**: El usuario valora la navegación sin muchos clics y los colores utilizados.
+    - **Calificación**: 4 sobre 5. Se sugiere agregar más funcionalidades para los usuarios que publican prendas y mantener un registro de actividades.
+
+### Conclusión
+Las evaluaciones heurísticas muestran que los usuarios encuentran la plataforma "Event Wear" fácil de usar y bien diseñada, aunque destacan la necesidad de mejoras en la consistencia visual y la adición de funcionalidades específicas. Implementar las recomendaciones propuestas ayudará a mejorar la usabilidad y satisfacción del usuario.
 
 ### 5.4. Video About-the-Product
 
-Link : https://drive.google.com/file/d/1rOFD-rZ5zdJJ9sMqgGL_wZwCGcVG9NTl/view?usp=sharing 
+**Introducción**:
+El proyecto "Event Wear" aborda el problema del consumo excesivo en eventos especiales ofreciendo una alternativa sostenible al fast fashion. La plataforma se enfoca en reducir el ciclo de compra y descarte de prendas a través de soluciones sostenibles.
 
+**Resultados y Validaciones**:
+Los usuarios han respondido positivamente a "Event Wear", mostrando un interés genuino en prácticas de consumo más conscientes y sostenibles. La validación de nuestras hipótesis confirma que la comunidad apoya activamente la reutilización y el intercambio de prendas, lo cual respalda nuestra visión.
+
+**Recomendaciones y Roadmap**:
+Para avanzar hacia una moda más sostenible, recomendamos:
+
+1. **Ampliación de la oferta**: Diversificar las prendas y estilos disponibles para satisfacer una gama más amplia de usuarios y eventos.
+2. **Fortalecimiento de la comunidad**: Fomentar la participación y la interacción entre los usuarios para crear un sentido de pertenencia y compromiso con la moda sostenible.
+3. **Educación y concientización**: Desarrollar recursos y campañas educativas sobre el impacto de la moda rápida y los beneficios del alquiler de prendas.
+4. **Expansión geográfica**: Explorar oportunidades para expandir la presencia de "Event Wear" a nuevos mercados, aprovechando el interés global en la sostenibilidad.
+
+Estas recomendaciones permitirán a "Event Wear" avanzar en su compromiso de promover un enfoque más consciente y colaborativo hacia la moda, consolidando su impacto positivo en el medio ambiente y la sociedad.
+
+- Timing: 0:00-5:06
+## Link : https://drive.google.com/file/d/1rOFD-rZ5zdJJ9sMqgGL_wZwCGcVG9NTl/view?usp=sharing  
 
 
 ## Conclusiones
@@ -2647,8 +2705,8 @@ Educación y concientización: Desarrollar recursos y campañas educativas para 
 Expansión geográfica: Explorar oportunidades para expandir la presencia de Event Wear a nuevos mercados, aprovechando el creciente interés global en la sostenibilidad y la economía compartida.
 
 En conjunto, estas recomendaciones nos permitirán seguir avanzando en nuestro compromiso de promover un enfoque más consciente y colaborativo hacia la moda, al tiempo que consolidamos el impacto positivo de Event Wear en el medio ambiente y la sociedad.
-
-Link del video About-the-Team : https://drive.google.com/file/d/1cLE4m-WxCMilsyPrqiXXTZnquJMvpRdc/view?usp=sharing 
+- Timing: 0:00-5:41
+## Link del video About-the-Team : https://drive.google.com/file/d/1cLE4m-WxCMilsyPrqiXXTZnquJMvpRdc/view?usp=sharing 
 
 
 
