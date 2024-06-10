@@ -2535,7 +2535,7 @@ Entrevistado 4:
     - Edad: 20
     - Distrito: San Miguel
 2. **Grabación de la Entrevista**:
-    - [Link de la entrevista]([https://drive.google.com/file/d/1VhKUb4Hv7XL0DcpUcngb_xbjQEO2K6P7/view?usp=sharing](https://drive.google.com/file/d/1668AeLyLvmQaO9t8IgZH8tignabrqPfn/view?usp=sharing))
+    - [Link de la entrevista](https://drive.google.com/file/d/1668AeLyLvmQaO9t8IgZH8tignabrqPfn/view?usp=sharing)
     
     ![image](Imagenes/entrevistasegmento2.png)
 
