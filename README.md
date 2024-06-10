@@ -40,6 +40,29 @@ width=50%"/>
 | 1.4       |  13/04/2024| Castillo Castillo, Alexander Jair | Agrego Web Applications Wireflow Diagrams | Completado  |
 | 1.5       |  14/04/2024| Cortez Quezada, Joaquin Antonio | Cambio de Student Outcome  | Completado  |
 | 1.6       |  14/04/2024| More Rondon, Christopher Sebastian | Agrego Analisis competitivo  | Completado  |
+| 2.0     | 14/04/2024 | Cortez Quezada, Joaquin Antonio | Sprint 2 - Sprint Backlog                                | Completado |
+| 2.1     | 15/04/2024 | Ramos Najar, Tony Alenxander    | Sprint 2 - Development Evidence for Sprint Review         | Completado |
+| 2.2     | 15/04/2024 | More Rondon, Christopher Sebastian | Sprint 2 - Software Deployment Evidence for Sprint Review | Completado |
+| 2.3     | 16/04/2024 | Ramos Najar, Tony Alenxander    | Sprint 2 - Testing Suite Evidence for Sprint Review        | Completado |
+| 2.4     | 16/04/2024 | More Rondon, Christopher Sebastian | Agrego Analisis competitivo  | Completado  |
+| 2.5     | 17/04/2024 | More Rondon, Christopher Sebastian | Sprint 2 - Team Collaboration Insights during Sprint     | Completado |
+| 2.6     | 17/04/2024 | Castillo Castillo, Alexander Jair | Sprint 2 - Execution Evidence for Sprint Review          | Completado |
+| 2.7    | 18/04/2024 | Cruz Palomino, Adriano Sebastian | Sprint 2 - Services Documentation Evidence for Sprint Review         | Completado |
+| 2.8     | 18/04/2024 | Cruz Palomino, Adriano Sebastian | Sprint 2 - Software Deployment Evidence for Sprint Review          | Completado |
+| 2.9     | 19/04/2024 | Castillo Castillo, Alexander Jair | Sprint 2 - Services Documentation Evidence for Sprint Review | Completado |
+| 2.10     | 19/04/2024 | Cortez Quezada, Joaquin Antonio | Sprint 2 - Sprint Planning                               | Completado |
+| 2.11    | 23/04/2024 | Ramos Najar, Tony Alenxander | Sprint 3 - Team Collaboration Insights during Sprint            | Completado |
+| 2.12    | 21/04/2024 | More Rondon, Christopher Sebastian    | Sprint 3 - Testing Suite Evidence for Sprint Review               | Completado |
+| 2.13    | 23/04/2024 | Cruz Palomino, Adriano Sebastian | Sprint 3 - Software Deployment Evidence for Sprint Review      | Completado |
+| 2.14    | 24/04/2024 | Cortez Quezada, Joaquin Antonio | Sprint 3 - Sprint Backlog                                      | Completado |
+| 2.15    | 20/04/2024 | More Rondon, Christopher Sebastian | Validation Interviews - Diseño de Entrevistas                   | Completado |
+| 2.16    | 25/04/2024 | Castillo Castillo, Alexander Jair | Validation Interviews - Registro de Entrevistas                 | Completado |
+| 2.17    | 20/04/2024 | Castillo Castillo, Alexander Jair    | Validation Interviews - Evaluaciones según heurísticas          | Completado |
+| 2.18    | 21/04/2024 | Cruz Palomino, Adriano Sebastian | Sprint 3 - Execution Evidence for Sprint Review                  | Completado |
+| 2.19    | 24/04/2024 | Castillo Castillo, Alexander Jair | Video About-the-Product                                       | Completado |
+| 2.20    | 25/04/2024 | Cortez Quezada, Joaquin Antonio | Sprint 3 - Sprint Planning                                       | Completado |
+| 2.21    | 22/04/2024 | Ramos Najar, Tony Alenxander | Sprint 3 - Services Documentation Evidence for Sprint Review      | Completado |
+| 2.22    | 22/04/2024 | Cruz Palomino, Adriano Sebastian | Sprint 3 - Development Evidence for Sprint Review                 | Completado |
 
 
 ### Project Report Collaboration Insights
