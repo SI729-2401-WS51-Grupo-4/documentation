@@ -2515,6 +2515,32 @@ Entrevistado 3:
     - Diseño y usabilidad: Diego aprecia el color y la organización de la interfaz. Le gusta que la navegación se pueda realizar en pocos clics. Sugiere centrado y estilización de algunos elementos como los cuadros de texto.
     - Calificación: 4 sobre 5. Aunque está satisfecho con la funcionalidad, ve áreas de mejora en la consistencia y estilo de algunos elementos visuales.
 
+Entrevistado 4:
+
+1. **Datos del Entrevistado**:
+    - Nombres: Miguel
+    - Apellidos: Domenack Angeles
+    - Edad: 20
+    - Distrito: San Miguel
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista]([https://drive.google.com/file/d/1VhKUb4Hv7XL0DcpUcngb_xbjQEO2K6P7/view?usp=sharing](https://drive.google.com/file/d/1668AeLyLvmQaO9t8IgZH8tignabrqPfn/view?usp=sharing))
+    
+    ![image](entrevistasegmento2.jpg)
+
+3. **Resumen de la Entrevista**:
+
+    Evaluación de la Landing Page:
+
+    - Facilidad de uso: Miguel encuentra muy intuitiva y fácil de usar la landing page, ya que cuenta con opciones que permite dirigirse directamente a la información que le interesa.
+    - Diseño visual: Le gusta los colores seleccionados en la página, así mismo, considera la distribución de la información en nuestra landing una característica a destacar, aunque le parecería mejor colocar más imágenes relacionadas a la información que se presenta.
+    - Calificación: 4 sobre 5. Miguel aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+    Evaluación del Frontend:
+
+    - Funcionalidad: La aplicación le permite visualizar varios detalles sobre las prendas que se muestran en la aplicación, así como la permite chatear con los arrendadores para estar aun mas informado, aunque considera la falta de funciones donde el usuario pueda visualizar su historial de todas sus operaciones la aplicación un punto negativo.
+    - Diseño y usabilidad: Miguel aprecia el poder navergar por aplicación sin la necesidad de dar muchos clics, además considera los colores que se utilizan como un punto a favor.
+    - Calificación: 4 sobre 5. Miguel apreciaría si la aplicación considerara una mayor cantidad de funcionalidades para el usuario que publica prendas en la aplicación para que pueda mantener un registro de sus actividades.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información y diseño de la experiencia propuesta. Se utilizará la estructura del formato para evaluaciones de heurísticas indicado en el Anexo D.
