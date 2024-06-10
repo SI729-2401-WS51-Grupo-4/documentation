@@ -2304,8 +2304,10 @@ Entrevistado 1:
 
 2. **Grabación de la Entrevista**:
     - [Link de la entrevista.](https://drive.google.com/file/d/1V2RLAuA72JUo05eG65sFu5PP7tbod6zO/view?usp=sharing)
+
     
-    -https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/550756bef3ddf77d8a4300815e36c682b98ad3c3/Imagenes/imagen_2024-06-09_134722048.png
+    ![image][def]
+
    
 4. **Resumen de la Entrevista**:
     - En la entrevista le solicitamos a la entrevistada que navegue por nuestra landing page a la vez que navegue por nuestra web application.
@@ -2410,3 +2412,6 @@ Enlace al repositorio de la base de datos: https://github.com/SI729-2401-WS51-Gr
 Enlace al repositorio del platform: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
 
 Link del video: https://drive.google.com/file/d/1u6S1d02ysTmwqHBC3NfMHfnmvZ3iORqn/view
+
+
+[def]: https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/main/Imagenes/imagen_2024-06-09_134722048.png?raw=true
