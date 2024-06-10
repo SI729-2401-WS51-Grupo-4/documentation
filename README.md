@@ -2260,15 +2260,133 @@ Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-Enlace al repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
+Para este sprint se realizo parcialmente el backend. Los Endpoints del bounded context de Publication y Rent ya estan completos. Los bounded context de Shipping, Categories, Transactions se desarrollaron parcialmente. Tambien, unimos todos nuestros bounded context del Frontend.
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Endpoints del Bounded Context Publication:
 
+![image](Imagenes/EvidenceSprint3.jpg)
+
+![image](Imagenes/evidence-publication.jpg)
+
+Enpoints del Bounded Context Rent:
+
+![image](Imagenes/evidence-shopping-exec.jpg)
+
+![image](Imagenes/evidence-shopping.jpg)
+
+Enpoints del Bounded Context Category:
+
+![image](Imagenes/RestfullCategoria.png)
+
+![image](Imagenes/CodeCategoria.png)
+
+Frontend con todos los bounded context:
+
+![image](Imagenes/execution-frontend.jpg)
+
+![image](Imagenes/exec-frontend-publication.jpg)
+
+![image](Imagenes/exec-frontend-categorias.jpg)
+
+![image](Imagenes/exec-frontend-pagos-realizados.jpg)
+
+![image](Imagenes/exec-frontend-carrito.jpg)
+
+![image](Imagenes/exec-frontend-lista-envios.jpg)
+
+Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
+
+Enlace al repositorio del Backend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint 3, se ha avanzado significativamente en la codificación y documentación de los servicios web relacionados con la entidad Categoría, Alquiler, Publicación, Transacción & Envíos. 
+
+##### Bounded Context Category
+
+Se ha completado la documentación de siete endpoints clave que cubren diversas acciones, desde la creación hasta la obtención y eliminación de categorías, así como la gestión de categorías favoritas.
+
+| Endpoint                   | Acción              | Verbo HTTP | Sintaxis de Llamada | Parámetros             | Ejemplo de Llamada        | Response                                                                                         |
+|----------------------------|---------------------|------------|---------------------|------------------------|----------------------------|--------------------------------------------------------------------------------------------------|
+| /api/categories            | Obtener todas       | GET        | /api/categories     | -                      | GET /api/categories       |  OK - Lista de todas las categorías                                                         |
+| /api/categories/{id}       | Obtener por ID      | GET        | /api/categories/{id}| ID de la categoría     | GET /api/categories/1     |  OK - Detalles de la categoría con ID 1                                                     |
+| /api/categories            | Crear               | POST       | /api/categories     | Datos de la categoría  | POST /api/categories      |  Created - Categoría creada con éxito                                                        |
+| /api/categories/{id}       | Actualizar por ID   | PUT        | /api/categories/{id}| ID de la categoría     | PUT /api/categories/1     |  OK - Detalles de la categoría actualizada con ID 1                                           |
+| /api/categories/{id}       | Eliminar por ID     | DELETE     | /api/categories/{id}| ID de la categoría     | DELETE /api/categories/1  |  No Content - Categoría eliminada con éxito                                                  |
+| /api/categories/{id}/favorite | Marcar como favorita | POST    | /api/categories/{id}/favorite | ID de la categoría | POST /api/categories/1/favorite |  OK - Categoría marcada como favorita                                                       |
+| /api/categories/{id}/favorite | Desmarcar como favorita | DELETE | /api/categories/{id}/favorite | ID de la categoría | DELETE /api/categories/1/favorite |  OK - Categoría desmarcada como favorita                                                 |
+
+##### Bounded Context Rent
+
+Se ha completado la documentación de seis endpoints clave que cubren diversas acciones, como la actualización y agregación de artículos en el carrito, la obtención de los artículos del carrito de un usuario y la eliminación de artículos específicos del carrito
+
+| Método | Endpoint                      | Descripción                                      | Response |
+|--------|-------------------------------|--------------------------------------------------| -------- |
+| PUT    | /cart/update                  | Actualiza un artículo en el carrito.            | OK - Actalización correcta del carrito |
+| POST   | /cart/add                     | Agrega un artículo al carrito.                   | Ok - Artículo agregado correctamente |
+| GET    | /cart/items/{userid}          | Obtiene los artículos del carrito de un usuario.| OK  |
+| GET    | /cart/items/all               | Obtiene todos los artículos del carrito.        | OK|
+| GET    | /cart/id/{userid}             | Obtiene el carrito completo de un usuario.      | OK | 
+| DELETE | /cart/delete/{userid}/{cartItemId} | Elimina un artículo específico del carrito. | OK - Artículo eliminado del carrito correctamente |
+
+
+##### Bounded Context Publication
+
+Se ha completado la documentación de diez endpoints clave que abarcan diversas acciones relacionadas con las publicaciones. Estos endpoints permiten la actualización, creación y eliminación de publicaciones, así como la gestión de comentarios y la obtención de detalles específicos de las publicaciones y sus comentarios.
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| PUT    | /api/v1/publications/{publicationId}/update-publication | Actualiza una publicación específica.                      | OK (200)                                                     |
+| POST   | /api/v1/publications/{publicationid}/add-comment     | Agrega un comentario a una publicación.                    | OK (200)                                                     |
+| POST   | /api/v1/publications/create-publication              | Crea una nueva publicación.                                | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}                 | Obtiene los detalles de una publicación específica.        | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/garment         | Obtiene los detalles de la prenda asociada a una publicación. | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/comments        | Obtiene los comentarios de una publicación específica.     | OK (200)                                                     |
+| GET    | /api/v1/publications/{lessorid}/publications        | Obtiene todas las publicaciones de un arrendador específico. | OK (200)                                                     |
+| GET    | /api/v1/publications/all-publications                | Obtiene todas las publicaciones.                           | OK (200)                                                     |
+| GET    | /api/v1/publications/all-comments                   | Obtiene todos los comentarios.                            | OK (200)                                                     |
+| DELETE | /api/v1/publications/{publicationid}/delete-publication | Elimina una publicación específica.                        | OK (200)                                                     |
+
+##### Bounded Context Transaction
+
+En proceso
+
+##### Bounded Context Shopping
+
+En proceso
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Alexander Jair Castillo Castillo | Implementación del RestfullApi Alquileres|
+| Christopher Sebastian More Rondon | Implementación del RestfullApi Transacciones|
+| Adriano Sebastian Cruz Palomino | Implementación del RestfullApi Publicaciones |
+| Joaquin Antonio Cortez Quezada | Implementación del RestfullApi Envíos|
+| Ramos Najar Tony Alenxander | Implementación del RestfullApi Categorías |
+
+##### **RestfullApi Alquileres:**
+
+![image](Imagenes/AlquileresRFA.png)
+
+##### **RestfullApi Transacciones:**
+
+![image](Imagenes/TransaccionesRFA.png)
+
+##### **RestfullApi Publicaciones:**
+
+![image](Imagenes/PublicacionesRFA.png)
+
+##### **RestfullApi Envíos:**
+
+![image](Imagenes/EnvíosRFA.png)
+
+##### **RestfullApi Categorías:**
+
+![image](Imagenes/CategoríasRFA.png)
 
 
 ### 5.3. Validation Interviews
@@ -2309,10 +2427,57 @@ Entrevistado 1:
     ![image][def]
 
    
-4. **Resumen de la Entrevista**:
+3. **Resumen de la Entrevista**:
+
     - En la entrevista le solicitamos a la entrevistada que navegue por nuestra landing page a la vez que navegue por nuestra web application.
     - Notas sobre dificultades encontradas y aspectos positivos destacados por el usuario :
     - encontramos que es facil el uso de la navegacion, no encontro inconveniente alguno.
+  
+
+Entrevistado 2:
+
+1. **Datos del Entrevistado**:
+    - Nombre: Fabrizio Mori
+    - Edad: 18
+    - Distrito: San Miguel
+
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista.](https://drive.google.com/file/d/1V1_CZuIO5-w5LP3Uq7Plqlr_9fjPaZax/view?usp=sharing)
+
+    ![image](https://github.com/SI729-2401-WS51-Grupo-4/documentation/blob/main/Imagenes/entrevista_FabrizioMori_OpenSource.png?raw=true)
+    
+   
+4. **Resumen de la Entrevista**:
+    - En la entrevista le mostramos a nuestro usuario la navegacion por la pagina, asi como se le explica las caracteristicas.
+    - Considera la navegacion sensilla de usar.
+    - Cree que algunas partes del diseño podrian mejorarse para ser mas variadas.
+
+Entrevistado 3:
+
+1. **Datos del Entrevistado**:
+    - Nombres: Diego Antonio
+    - Apellidos: Salinas Casaico
+    - Edad: 19
+    - Distrito: San Martin de Porres
+
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista](https://drive.google.com/file/d/1VhKUb4Hv7XL0DcpUcngb_xbjQEO2K6P7/view?usp=sharing)
+    
+    ![image](Imagenes/entrevista-2.jpg)
+
+3. **Resumen de la Entrevista**:
+
+    Evaluación de la Landing Page:
+
+    - Facilidad de uso: Diego encuentra la landing page bien distribuida y navegable, pero nota una inconsistencia en los colores utilizados (verde, azul y blanco).
+    - Diseño visual: Le gusta la animación en los botones y sugiere que debería aplicarse a todos los botones. Prefiere la fuente moderna utilizada en algunos títulos y recomienda que los subtítulos mantengan esa consistencia. Encuentra que algunos bordes suavizados funcionan bien, pero otros elementos requieren mejoras visuales.
+    - Calificación: 4.5 sobre 5. Diego aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+    Evaluación del Frontend:
+
+    - Funcionalidad: La aplicación permite navegar fácilmente por productos, agregar al carrito, gestionar pagos y preferencias de usuario, y comunicarse con arrendadores.
+    - Diseño y usabilidad: Diego aprecia el color y la organización de la interfaz. Le gusta que la navegación se pueda realizar en pocos clics. Sugiere centrado y estilización de algunos elementos como los cuadros de texto.
+    - Calificación: 4 sobre 5. Aunque está satisfecho con la funcionalidad, ve áreas de mejora en la consistencia y estilo de algunos elementos visuales.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
