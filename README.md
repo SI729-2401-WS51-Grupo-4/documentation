@@ -2537,7 +2537,7 @@ Entrevistado 4:
 2. **Grabación de la Entrevista**:
     - [Link de la entrevista]([https://drive.google.com/file/d/1VhKUb4Hv7XL0DcpUcngb_xbjQEO2K6P7/view?usp=sharing](https://drive.google.com/file/d/1668AeLyLvmQaO9t8IgZH8tignabrqPfn/view?usp=sharing))
     
-    ![image](entrevistasegmento2.jpg)
+    ![image](Imagenes/entrevistasegmento2.png)
 
 3. **Resumen de la Entrevista**:
 
