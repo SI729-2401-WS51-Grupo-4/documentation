@@ -2553,6 +2553,30 @@ Entrevistado 4:
     - Diseño y usabilidad: Miguel aprecia el poder navergar por aplicación sin la necesidad de dar muchos clics, además considera los colores que se utilizan como un punto a favor.
     - Calificación: 4 sobre 5. Miguel apreciaría si la aplicación considerara una mayor cantidad de funcionalidades para el usuario que publica prendas en la aplicación para que pueda mantener un registro de sus actividades.
 
+   Entrevistado 5:
+
+    1. **Datos del Entrevistado**:
+    - Nombres: Jose Fabian
+    - Apellidos: Castro LujanRipoll
+    - Edad: 22
+    - Distrito: Miraflores
+    2. **Grabación de la Entrevista**:
+    - [Link de la entrevista](https://drive.google.com/file/d/1KRdTicBNcaShpREsGvYALIE7Col4eoNe/view?usp=sharing)
+    
+    ![image](https://raw.githubusercontent.com/SI729-2401-WS51-Grupo-4/documentation/532418b60f9917ffa2dd92243a19bad3fd515129/Imagenes/imagen_2024-06-10_002829393.png)
+
+    3. **Resumen de la Entrevista**:
+    Evaluación de la Landing Page:
+
+    - Facilidad de uso: Jose Fabian considera la landing page muy intuitiva y fácil de navegar, destacando la posibilidad de acceder directamente a la información de su interés.
+    Diseño visual: Los colores de la página le resultan agradables y la disposición de la información le parece adecuada, aunque sugiere incluir más imágenes relacionadas con el contenido presentado.
+    Calificación: 4 sobre 5. Jose Fabian valora la distribución y facilidad de uso, pero señala la necesidad de mejorar la consistencia visual.
+    Evaluación del Frontend:
+
+   - Funcionalidad: La aplicación permite ver múltiples detalles sobre las prendas disponibles y facilita la comunicación con los arrendadores. Sin embargo, Jose Fabian ve como negativo que no se pueda visualizar el historial completo de operaciones del usuario.
+    Diseño y usabilidad: Aprecia que la navegación sea sencilla y no requiera muchos clics. Además, encuentra los colores usados en la aplicación atractivos.
+    Calificación: 4 sobre 5. Jose Fabian sugiere que se añadan más funcionalidades para los usuarios que publican prendas, permitiéndoles llevar un registro de sus actividades.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información y diseño de la experiencia propuesta. Se utilizará la estructura del formato para evaluaciones de heurísticas indicado en el Anexo D.
