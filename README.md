@@ -2229,6 +2229,42 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
 
+En este sprint del proyecto Event-Wear-platform, en el backend se logró establecer la configuración inicial del repositorio y avanzar en la implementación de varios bounded contexts. Se desarrollaron y mejoraron funcionalidades clave en los contextos de renta, envíos, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se realizaron correcciones importantes en la lógica y estructura del código, estableciendo una base sólida para el desarrollo continuo del backend del proyecto.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 5b20f9c | chore: initial commit |  | 25/05/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | e13a384 | create the ren bounded context |  | 26/05/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | d3ec92c | feat: added cartItem and product |  | 26/05/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | aa7c12a | fix: changed LocalDateTime to java.util.Date |  | 26/05/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | bd3e35f | Load transaction bounded context |  | 29/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | d15afdb | feat(Shipping) added bounded contexts Shipping |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | a63b0d2 | feat(Shipping) added domain |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | 3fa31b5 | feat(Shipping) added model |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | 075c99b | feat(Shipping) added aggregates |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | a760d9d | deat(Shipping) added entities |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | 7c69538 | feat(Shipping) added infrastructure |  | 30/05/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/Shipping | d0bcac6 | feat(Shipping) added commands, queries ,Vobjects |  | 30/05/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | e28cf1b | feat: added new structur of the bounded context Rent |  | 30/05/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/publications | 0a925da | feat(publications): added agregates, entities and valueobjects |  | 28/05/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 406b920 | fix: fixed my rent branch from duplicate files |  | 31/05/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/publications | 9bb5c3a | feat: added rest methods |  | 31/05/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/categories | 1c7e1b6 | Add files via upload |  | 31/05/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | ebbd65e | add: added interfaces.rest and resources,transform but only AddItemToCart |  | 01/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 8dcab48 | add: added interfaces DeleteCartItem |  | 01/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 94f80b6 | add: added interfaces UpdateCartItem |  | 01/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 6e41c69 | add: added queries implementation |  | 04/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | 274f651 | Feat: Added implementations of query repositories |  | 05/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 9295874 | fix: fixed the structur and using correct logic |  | 06/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 14017d3 | fix: fixed the using correct logic |  | 06/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | 236a342 | Feat: Added command services implementations |  | 07/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/publications | 4e81ace | feat: added swagger |  | 09/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 1f82993 | Add files via upload |  | 09/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/categories | 1885d1b | Add files via upload |  | 09/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | 03c5807 | feat: added swagger |  | 09/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | 0243f79 | Feat; Added controllers |  | 09/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | a197cee | Add files via upload |  | 09/06/24 |
+
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron y algunas que vamos a implementar en el sprint 4. Para esta entrega nos centramos en mejorar el Front end y comenzar  con el desarrollo del backend.
