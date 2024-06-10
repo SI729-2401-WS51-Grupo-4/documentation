@@ -2393,6 +2393,18 @@ En proceso
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+Durante este sprint, hemos avanzado en la planificación y preparación del despliegue del backend del proyecto utilizando Azure como nuestra plataforma de nube, Docker para la contenerización de la aplicación y PostgreSQL como nuestra base de datos alojada en Azure. Aunque el backend aún no se ha desplegado completamente, hemos definido cuidadosamente los pasos necesarios para garantizar un despliegue escalable y de alta disponibilidad en Azure. Estamos comprometidos a completar el despliegue en el próximo sprint, lo que nos permitirá realizar pruebas exhaustivas y preparar la aplicación para su lanzamiento.
+
+Por otro lado, si despleglamos el frontend con todos los bounded context. A continuación mostrare el link del front desplegado y algunas capturas del frontend desplegado .
+
+link del frontend: https://event-wear-platform-2024.web.app/home
+
+Home:
+![image](Imagenes/home-desplegado.jpg)
+
+Products
+![image](Imagenes/product-desplegado.jpg)
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
