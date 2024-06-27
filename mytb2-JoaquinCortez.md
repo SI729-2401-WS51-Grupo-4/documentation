@@ -93,3 +93,62 @@ agregar hisstorias de usuario y quien lo desarrollara
 |            |                  | T10                                | - |  Configurar las clases del repositorio JPA necesarias para manejar la persistencia de los datos del perfil. | 2 HR |  Jair Castillo | TO-DO |
 |            |                  | T11                                | - |  Realizar pruebas unitarias e integración  | 2 HR | Jair Castillo | TO-DO |
 |            |                  | T12                                | - |  Desarrollar pruebas de integración para asegurar el flujo completo desde la interfaz hasta la base de datos. | 2 HR |  Jair Castillo | TO-DO |
+| US13      |  Visualizar todas mis publicaciones | T01 | - | Desarrollar la Entidad de publicaciones | 1 HR | Joaquin Cortez | TO-DO |
+|            |                  | T02                                | - | Diseñar la interfaz de servicio para visualizar publicaciones   | 2 HR |Joaquin Cortez | TO-DO |
+|            |                  | T03                                | - |  Definir los métodos necesarios en la interfaz del servicio para obtener todas las publicaciones del usuario. | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T04                                | - |  Implementar el servicio para visualizar publicaciones  | 1 HR | Joaquin Cortez | TO-DO |
+|            |                  | T05                                | - |   Realizar la implementación de los métodos definidos para la visualización de publicaciones del usuario. | 1 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T06                                | - |  Crear la Consulta para obtener publicaciones del usuario  | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T07                                | - |  Desarrollar la lógica de consulta para obtener todas las publicaciones del usuario.  | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T08                                | - |   Implementar el servicio de configuración de perfil  | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T09                                | - |  Realizar la implementación de los métodos definidos en el servicio.  | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T10                                | - |  Crear el Comando para guardar el perfil | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T11                                | - |  Desarrollar la lógica de negocio necesaria para guardar la información del perfil en la base de datos utilizando el patrón Command.  | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T12                                | - |    Desarrollar la Entidad del perfil | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T13                                | - |    Crear la entidad modelo que represente el perfil en la base de datos. | 1 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T14                                | - |    Configurar JPA y el repositorio para el perfil | 2 HR | Joaquin Cortez | TO-DO |
+|            |                  | T15                                | - |   Configurar las clases del repositorio JPA necesarias para manejar la persistencia de los datos del perfil. | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T16                                | - |    Realizar pruebas unitarias e integración | 2 HR |  Joaquin Cortez| TO-DO |
+|            |                  | T17                                | - |    Crear pruebas unitarias para los métodos del servicio. | 2 HR |  Joaquin Cortez | TO-DO |
+|     US11        |   Realizar alquiler de prendas               | T01                                | - |Desarrollar la Entidad de alquiler de prendas   | 2 HR |Adriano Cruz	 | TO-DO |
+|            |                  | T02                                | - |  Crear la entidad modelo que represente el alquiler de una prenda en la base de datos, incluyendo atributos como fecha de inicio, fecha de fin, estado del alquiler, etc. | 2 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T03                                | - | Diseñar la interfaz de servicio para el alquiler de prendas   | 1 HR | Adriano Cruz	 | TO-DO |
+|            |                  | T04                                | - |  Definir los métodos necesarios en la interfaz del servicio para manejar el alquiler de prendas.  | 1 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T05                                | - |  Implementar el servicio de alquiler de prendas  | 2 HR | Adriano Cruz	| TO-DO |
+|            |                  | T06                                | - |  Realizar la implementación de los métodos definidos en el servicio que permitirá a los usuarios alquilar prendas.  | 2 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T07                                | - |   Crear el Comando para realizar el alquiler de prendas  | 2 HR | Adriano Cruz	| TO-DO |
+|            |                  | T08                                | - |  Desarrollar la lógica de negocio necesaria para procesar el alquiler de una prenda utilizando el patrón Command. | 2 HR | Adriano Cruz	 | TO-DO |
+|            |                  | T09                                | - |   Configurar JPA y el repositorio para gestionar el alquiler de prendas | 2 HR | Adriano Cruz	 | TO-DO |
+|            |                  | T10                                | - |   Configurar las clases del repositorio JPA necesarias para manejar la persistencia de los datos relacionados con el alquiler de prendas.  | 2 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T11                                | - |  Realizar pruebas unitarias e integración   | 2 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T12                                | - |   Crear pruebas unitarias para los métodos del servicio de alquiler de prendas.  | 2 HR |  Adriano Cruz	 | TO-DO |
+|            |                  | T13                                | - |  Realizar pruebas de integración para asegurar que todo el flujo de alquiler, desde la interfaz de usuario hasta la persistencia en la base de datos, funcione correctamente.   | 2 HR |  Adriano Cruz	 | TO-DO |
+| US26      |  Ver todas las categorías | T01 | - | Creación Exception Classes | 1 HR | Tony Ramos	 | TO-DO |
+|            |                  | T02                                | - | Diseñar la interfaz de servicio para visualizar publicaciones   | 2 HR | Tony Ramos	 | TO-DO |
+|            |                  | T03                                | - | Crear e implementar Aggregates  | 2 HR |  Tony Ramos	 | TO-DO |
+|            |                  | T04                                | - |  Creación de Commands   | 3 HR | Tony Ramos	 | TO-DO |
+|            |                  | T05                                | - |  Creación de Entities  | 1 HR |  Tony Ramos	 | TO-DO |
+|            |                  | T06                                | - |  Creación de Events   | 1 HR | Tony Ramos	 | TO-DO |
+|            |                  | T07                                | - |  Crear e implementar Queries   | 2 HR |  Tony Ramos	 | TO-DO |
+|            |                  | T08                                | - |   Crear e implementar ValueObjects  | 1 HR |Tony Ramos	 | TO-DO |
+|            |                  | T09                                | - |  Implementación de Controlador  | 2 HR |  Tony Ramos	 | TO-DO |
+|            |                  | T10                                | - |  Probar Creación de Categoría, Obtener todas las Categorías, Actualización de Categorías, Eliminación de Categoría | 2 HR |  Tony Ramos	 | TO-DO |
+|            |                  | T11                                | - |  Realizar la documentación de API (endpoints, métodos HTTP, parámetros y respuestas)  | 2 HR | Tony Ramos| TO-DO |
+
+
+
+
+
+| US13      |  Visualizar todas mis publicaciones | T01 | - | Desarrollar la Entidad de publicaciones | 1 HR | Jair Castillo | TO-DO |
+|            |                  | T02                                | - | Diseñar la interfaz de servicio para visualizar publicaciones   | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T03                                | - |   | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T04                                | - |    | 1 HR | Jair Castillo | TO-DO |
+|            |                  | T05                                | - |    | 1 HR |  Jair Castillo | TO-DO |
+|            |                  | T06                                | - |    | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T07                                | - |    | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T08                                | - |     | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T09                                | - |    | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T10                                | - |   | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T11                                | - |    | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T12                                | - |     | 2 HR |  Jair Castillo | TO-DO |
+
