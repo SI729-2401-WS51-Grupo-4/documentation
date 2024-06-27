@@ -2616,9 +2616,9 @@ BC Shipping: POST y GET
 
 BC Transaction: POST y GET
 
-![image](Imagenes/transactionexecutionPOST.png)
+![image](Imagenes/transactionsexecutionPOST.png)
 
-![image](Imagenes/transactionexecutionGET.png)
+![image](Imagenes/transactionsexecutionGET.png)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
