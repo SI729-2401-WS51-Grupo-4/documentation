@@ -46,10 +46,10 @@ agregar hisstorias de usuario y quien lo desarrollara
 | Sum of Story Points              | - points                                                                                                                                                            |
 
 
-#Product backlog 2
+#Product backlog 3
 
 
-| EPIC ID   | EPIC Title                     | US ID  | US Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| EPIC ID   | EPIC Title        | US ID  | US Title                         | Description                                                                                                        | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
 | EP08 | Como Developer, quiero implementar las RESTful API necesarias para garantizar un buen funcionamiento de la plataforma          | US04 | Configuración de perfil inicial  | Como Developer, quiero implementar un RESTful API para almacenar la configuración de la cuenta del usuario, con el fin de que el usuario puede acceder a ellos y poder editarlos.                                    | -                  |   | -                                      |
 | EP08 | Como Developer, quiero implementar las RESTful API necesarias para garantizar un buen funcionamiento de la plataforma  | US13 | Visualizar todas mis publicaciones | Como Developer, quiero implementar un RESTful API para almacenar todas las publicaciones que el usuario ha publicado, incluyendo el nombre de la publicación, precio, descripción, comentarios, estados, para que el usuario puede hacer un seguimiento de su publicación. | 2                  | Joaquin Antonio | -                                      |
@@ -59,6 +59,31 @@ agregar hisstorias de usuario y quien lo desarrollara
 | EP08 | Como Developer, quiero implementar las RESTful API necesarias para garantizar un buen funcionamiento de la plataforma  | US25 | Visualizar lista de envíos       | Como Developer, quiero implementar un RESTful API para almacenar los envíos pertenecientes a un usuario, incluyendo, la dirección, fecha de entrega,  detalles, estado de envío, para que este puede visualizarlos posteriormente             | 4                  | Jair Castillo | Done                                   |
 | EP08  |Como Developer, quiero implementar las RESTful API necesarias para garantizar un buen funcionamiento de la plataforma | US24  | Bounded Context Transacciones   | Como developer quiero implementar un restful API con el registro de transacciones para que se pueda acceder a la base de datos y visualizar las compras realizadas.           | 3                  | Adriano Cruz | -              |
 
+
+# Sprint #3
+
+| User Story |                  | Work Item/Task                     |            |                |               |          |          |
+|------------|------------------|------------------------------------|------------|----------------|---------------|----------| -------- |
+| ID         | Title            | ID                                 | Title      | Description    | Estimation    | Assigned | Status   |
+|            |                  |                                    |            |                | (hours)       | to       |          |
+| EP08       | Ver detalles de la prenda | T01 | - | Desarrollar la Entidad de detalles de prendas | 5 HR | Jair Castillo	 | - |
+|            |                  | T02                                | - | Asegurarse de que la entidad de las prendas contiene todos los detalles necesarios.| 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T03                                | - | Diseñar la interfaz de servicio para obtener detalles de prendas | 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T04                                | - | Implementar el servicio para ver detalles de la prenda | 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T05                                | - | Crear aggregates para almacenar la informacion de la prenda  | 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T06                                | - |  Realizar la implementación de los métodos definidos en el servicio de detalles de prendas. | 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T07                                | - |  Queries para recuperar data del producto | 2 HR | Jair Castillo	 | TO-DO |
+|            |                  | T08                                | - |  Commands para añadir a favoritos el producto | 4 HR | Jair Castillo	 | TO-DO |
+|            |                  | T09                                | - |  Entities con arendador y comentarios para añadirlos al aggregate | 2 HR | Jair Castillo	 | TO-DO |
+|            |                  | T10                                | - |  Definir los métodos necesarios en la interfaz del servicio para obtener detalles específicos de una prenda. | 1 HR | Jair Castillo	 | TO-DO |
+|            |                  | T11                                | - |  Configurar JPA y el repositorio para detalles de prendas | 4 HR | Jair Castillo	 | TO-DO |
+|            |                  | T12                                | - |  Configurar las clases del repositorio JPA necesarias para manejar la recuperación de detalles específicos de las prendas. | 2 HR | Jair Castillo	 | TO-DO |
+|            |                  | T13                                | - |  Realizar pruebas unitarias e integración | 1 HR | Jair Castillo	| TO-DO |
+|            |                  | T14                                | - | Crear pruebas unitarias para los métodos del servicio. | 2 HR | Jair Castillo	 | TO-DO |
+|            |                  | T15                                | - | Realizar pruebas de integración para asegurar el flujo completo desde la interfaz hasta la base de datos de detalles de prendas. | 1 HR | Jair Castillo	 | TO-DO |
+| US02       | Inicio de sesión del usuario | T01 | Crear pantalla de inicio de sesión | Diseñar y desarrollar la interfaz de usuario para la pantalla de inicio de sesión. | 5 HR | Alvaro Felices | TO-DO |
+|            |                  | T02                                | Implementar autenticación | Desarrollar la lógica de autenticación y validación de credenciales. | 8 HR | Alvaro Felices | TO-DO |
+|            |                  | T03                                | Conectar a la base de datos | Configurar la conexión a la base de datos para verificar las credenciales de usuario. | 4 HR | Alvaro Felices | TO-DO |
 
 
 
