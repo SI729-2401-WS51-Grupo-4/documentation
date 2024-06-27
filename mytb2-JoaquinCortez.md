@@ -81,9 +81,15 @@ agregar hisstorias de usuario y quien lo desarrollara
 |            |                  | T13                                | - |  Realizar pruebas unitarias e integración | 1 HR | Jair Castillo	| TO-DO |
 |            |                  | T14                                | - | Crear pruebas unitarias para los métodos del servicio. | 2 HR | Jair Castillo	 | TO-DO |
 |            |                  | T15                                | - | Realizar pruebas de integración para asegurar el flujo completo desde la interfaz hasta la base de datos de detalles de prendas. | 1 HR | Jair Castillo	 | TO-DO |
-| US02       | Inicio de sesión del usuario | T01 | Crear pantalla de inicio de sesión | Diseñar y desarrollar la interfaz de usuario para la pantalla de inicio de sesión. | 5 HR | Alvaro Felices | TO-DO |
-|            |                  | T02                                | Implementar autenticación | Desarrollar la lógica de autenticación y validación de credenciales. | 8 HR | Alvaro Felices | TO-DO |
-|            |                  | T03                                | Conectar a la base de datos | Configurar la conexión a la base de datos para verificar las credenciales de usuario. | 4 HR | Alvaro Felices | TO-DO |
-
-
-
+| US04       |  Configuración de perfil inicial | T01 | - | Desarrollar la Entidad del perfil | 1 HR | Jair Castillo | TO-DO |
+|            |                  | T02                                | - | Crear la entidad modelo que represente el perfil en la base de datos.   | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T03                                | - |  Diseñar la interfaz de servicio para la configuración del perfil  | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T04                                | - |  Definir los métodos necesarios en la interfaz del servicio para la configuración del perfil inicial.  | 1 HR | Jair Castillo | TO-DO |
+|            |                  | T05                                | - | Implementar el servicio de configuración de perfil   | 1 HR |  Jair Castillo | TO-DO |
+|            |                  | T06                                | - |  Realizar la implementación de los métodos definidos en el servicio.  | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T07                                | - |  Crear el Comando para guardar el perfil  | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T08                                | - |  Desarrollar la lógica de negocio necesaria para guardar la información del perfil en la base de datos utilizando el patrón Command.| 2 HR | Jair Castillo | TO-DO |
+|            |                  | T09                                | - |  Configurar JPA y el repositorio para el perfil  | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T10                                | - |  Configurar las clases del repositorio JPA necesarias para manejar la persistencia de los datos del perfil. | 2 HR |  Jair Castillo | TO-DO |
+|            |                  | T11                                | - |  Realizar pruebas unitarias e integración  | 2 HR | Jair Castillo | TO-DO |
+|            |                  | T12                                | - |  Desarrollar pruebas de integración para asegurar el flujo completo desde la interfaz hasta la base de datos. | 2 HR |  Jair Castillo | TO-DO |
