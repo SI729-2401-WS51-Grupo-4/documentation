@@ -134,6 +134,27 @@ agregar hisstorias de usuario y quien lo desarrollara
 |            |                  | T09                                | - |  Implementación de Controlador  | 2 HR |  Tony Ramos	 | TO-DO |
 |            |                  | T10                                | - |  Probar Creación de Categoría, Obtener todas las Categorías, Actualización de Categorías, Eliminación de Categoría | 2 HR |  Tony Ramos	 | TO-DO |
 |            |                  | T11                                | - |  Realizar la documentación de API (endpoints, métodos HTTP, parámetros y respuestas)  | 2 HR | Tony Ramos| TO-DO |
+| US25      |  Visualizar lista de envíos | T01 | - |  Creación de la entity Shipping | 1 HR | Joaquin Cortez | TO-DO |
+|            |                  | T02                                | - |  Creación de la entity ShippingDetails | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T03                                | - | Determinar valueobjects ShippingHistory  | 2 HR |   Joaquin Cortez | TO-DO |
+|            |                  | T04                                | - |  Agregar valueobjects Deadline, RemainingDays, StartDate, Tracking Status, UserId  | 1 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T05                                | - |   Implementación de command AddDescripcionToShippingCommand | 1 HR |   Joaquin Cortez| TO-DO |
+|            |                  | T06                                | - |  Implementacion del command AddShippingToShippingHisotryCommand  | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T07                                | - |  Implementación del command CreateDescripcionCommand  | 2 HR |   Joaquin Cortez| TO-DO |
+|            |                  | T08                                | - |  Implementacion del command CreateShippingCommand   | 2 HR |  Joaquin Cortez | TO-DO |
+|            |                  | T09                                | - |  Creación de los repositorios ShippingHistoryRepository y ShippingRepository  | 2 HR |   Joaquin Cortez | TO-DO |
+| US24	      |  Visualizar transacciones | T01 | - | Crear y definir los aggregates | 1 HR | Christopher Sebastian	 | TO-DO |
+|            |                  | T02                                | - |Crear y definir los entities  | 2 HR | Christopher Sebastian	 | TO-DO |
+|            |                  | T03                                | - | Crear queries para obtener la información necesaria para crear las transacciones  | 2 HR |  Christopher Sebastian	| TO-DO |
+|            |                  | T04                                | - |  Crear commands para modificar aggregates  | 1 HR | Christopher Sebastian	 | TO-DO |
+|            |                  | T05                                | - |  Realizar pruebas para confirmar que se añadan los elementos a la base de datos  | 1 HR |  Christopher Sebastian	 | TO-DO |
+|            |                  | T06                                | - |  Crear service para manejar los queries y commands  | 2 HR | Christopher Sebastian	 | TO-DO |
+|            |                  | T07                                | - |  Crear los repository  | 2 HR |  Christopher Sebastian	 | TO-DO |
+|            |                  | T08                                | - |   Crear y definir los Value objects  | 2 HR | Christopher Sebastian	 | TO-DO |
+|            |                  | T09                                | - |  Crear e implementar los controllers  | 2 HR |  Christopher Sebastian	 | TO-DO |
+|            |                  | T10                                | - | Crear los commandservice implements  | 2 HR |  Christopher Sebastian	 | TO-DO |
+|            |                  | T11                                | - |  Crear los queryservice implements  | 2 HR | Christopher Sebastian	| TO-DO |
+
 
 
 
