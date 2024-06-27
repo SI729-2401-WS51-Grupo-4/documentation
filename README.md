@@ -2576,6 +2576,96 @@ Products
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
+Durante este sprint, logramos implementar con éxito nuestro front-end en Angular y desplegarlo en Firebase. También estructuramos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones y Perfil. Implementamos políticas CORS para la comunicación segura entre front-end y back-end, junto con un sistema robusto de autenticación para registro y acceso seguro. Optimizamos el manejo de datos utilizando JSON en el back-end. Este sprint fue crucial para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos.
+
+A continuación, se presentan las evidencias de una correcta implementación del RESTFUL Service
+
+BC Publication:
+
+![image](Imagenes/BCPUBLICATIONIMPL.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| PUT    | /api/v1/publications/{publicationId}/update-publication | Actualiza una publicación específica.                      | OK (200)                                                     |
+| POST   | /api/v1/publications/{publicationid}/add-comment     | Agrega un comentario a una publicación.                    | OK (200)                                                     |
+| POST   | /api/v1/publications/create-publication              | Crea una nueva publicación.                                | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}                 | Obtiene los detalles de una publicación específica.        | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/garment         | Obtiene los detalles de la prenda asociada a una publicación. | OK (200)                                                     |
+| GET    | /api/v1/publications/{publicationid}/comments        | Obtiene los comentarios de una publicación específica.     | OK (200)                                                     |
+| GET    | /api/v1/publications/{lessorid}/publications        | Obtiene todas las publicaciones de un arrendador específico. | OK (200)                                                     |
+| GET    | /api/v1/publications/all-publications                | Obtiene todas las publicaciones.                           | OK (200)                                                     |
+| GET    | /api/v1/publications/all-comments                   | Obtiene todos los comentarios.                            | OK (200)                                                     |
+| DELETE | /api/v1/publications/{publicationid}/delete-publication | Elimina una publicación específica.                        | OK (200)                                                     |
+
+
+BC Rent:
+
+![image](Imagenes/BCRENTIMPL.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| PUT    | /api/v1/cart/update/{userId}/{cartItemId} | Actualiza un alquiler especifico.                      | OK (200)                                                     |
+| POST   | /api/v1/cart/add/{userId}    | Agrega un alquiler.                    | OK (200)                                                     |
+| GET    | /api/v1/cart/shoppingcartId/{userId}                | Obtiene los detalles del carrito de compras.        | OK (200)                                                     |
+| GET    | /api/v1/cart/cartItems/{userId}       | Obtiene los detalles del alquiler. | OK (200)                                                     |
+| GET    | /api/v1/cart/all-cartItems       | Obtiene todos los alquileres de una publicación específica.     | OK (200)                                                     |
+| DELETE | /api/v1/cart/delete/{userId}/{cartItemId}   | Elimina un alquiler específico                        | OK (200)                                                     |
+
+BC Category:
+
+![image](Imagenes/BCCATEGORYIMPL.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| GET    | /{id} | Obtener una categoria por Id                      | OK (200)                                                     |
+| PUT   | /{id}     | Actualizar una categoria existente por Id                    | OK (200)                                                     |
+| DELETE   | /{id}              | Eliminar una categoría existente por Id                                | OK (200)                                                     |
+| POST    | /{id}/favorite                 | Añadir una categoria existente a favoritos por Id        | OK (200)                                                     |
+| GET    | /         | Crea una nueva categoría | OK (200)                                                     |
+| POST    | /        | Obtiene todas las categorías     | OK (200)                                                     |
+| GET    | /favorites        | Obtiene todas las categorias en favoritos | OK (200)                                                     |
+
+
+BC Shipping:
+
+![image](Imagenes/BCSHIPPINGIMPL.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| POST    | /shipping/create/Shipping | Crea un nuevo envío                      | OK (200)                                                     |
+| GET   | /shippings     | Devuelve todos los envíos disponibles.                    | OK (200)                                                     |
+| GET   | /shippings/history/{historyId}             | Devuelve el historial de envíos por Id                             | OK (200)                                                     |
+
+Shippin-detail-controller
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| POST    | /shippingDetails/create | Crea un nuevo envio con detalles                      | OK (200)                                                     |
+| GET   | /shippingDetails/{shippingId}     | Devuelve el historial de envíos por Id.                    | OK (200)                                                     |
+
+
+
+BC Transactions:
+
+![image](Imagenes/BCTRANSACTIONIMPL.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| GET    | /api/v1/transactions/{transactionId} | Devuelve las transacciones realizadas por Id                      | OK (200)                                                     |
+| PUT   | /api/v1/transactions/{transactionId}     | Actualiza una transaccion por Id                   | OK (200)                                                     |
+| GET   | /api/v1/transactions              | Devuelve todas las transacciones creadas                              | OK (200)                                                     |
+| POST    | /api/v1/transactions                | Crea una nueva transaccion        | OK (200)                                                     |
+
+transaction-history-controller
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| PUT    | /api/v1/transactionHistories/{transactionHistoryId} | Actualiza el historial de transacciones por ID                      | OK (200)                                                     |
+| GET   | /api/v1/transactionHistories    | Devuelve el historial de transacciones                    | OK (200)                                                     |
+| POST   | /api/v1/transactionHistories             | Crea un historial de transacciones                              | OK (200)                                                     |
+| GET    | /api/v1/transactionHistories/{transactionHistoryId}                 | Obtiene el historial de transacciones por ID        | OK (200)                                                     |
+
+
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
