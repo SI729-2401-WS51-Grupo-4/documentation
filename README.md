@@ -2568,11 +2568,57 @@ Products
 
 #### 5.2.4.2.Sprint Backlog 4.
 
+Durante este sprint, logramos importantes avances en el desarrollo y despliegue de nuestra aplicación. Iniciamos con la implementación exitosa del front-end en Angular y su despliegue en Firebase, aprovechando las capacidades de alojamiento y escalabilidad de la plataforma.
+
+Posteriormente, estructuramos y desarrollamos varios contextos delimitados dentro de nuestra aplicación: Categorías, Publicaciones, Envíos, Transacciones y Perfil. Esta organización nos permitió gestionar de manera efectiva cada área funcional de la aplicación de forma independiente y escalable.
+
+Uno de nuestros logros significativos fue establecer una comunicación segura entre el front-end y el back-end mediante la implementación de políticas de Cross-Origin Resource Sharing (CORS). Esto garantizó que las solicitudes entre diferentes dominios fueran manejadas de manera segura y eficiente.
+
+Además, implementamos un sólido sistema de autenticación que incluye funciones completas de registro (Sign up) y autenticación (Sign in). Esto aseguró que nuestros usuarios puedan registrarse de manera segura y acceder a las funcionalidades críticas de la aplicación con la debida autorización.
+
+En el aspecto técnico, optimizamos la gestión de datos utilizando JSON en el back-end, asegurando una estructura coherente y eficiente que respalda las operaciones fundamentales de nuestra aplicación.
+
+En resumen, este sprint fue fundamental para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos. Estamos entusiasmados con los logros alcanzados y preparados para seguir evolucionando y mejorando en los próximos pasos del proyecto.
+
+# FALTA CUADRO IMPLEMENTAR
+
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Durante este sprint, logramos implementar con éxito el front-end en Angular y desplegarlo en Firebase. Definimos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones y Perfil. Implementamos políticas de CORS para una comunicación segura y un robusto sistema de autenticación. Mejoramos la gestión de datos utilizando JSON en el back-end.
+
+BC Publication: POST y GET
+
+![image](Imagenes/publicationexecutionPOST.png)
+
+![image](Imagenes/publicationexecutionGET.png)
+
+BC Rent: POST y GET
+
+![image](Imagenes/rentexecutionPOST.png)
+
+![image](Imagenes/rentexecutionGET.png)
+
+BC Category: POST y GET
+
+![image](Imagenes/categoryexecutionPOST.png)
+
+![image](Imagenes/categoryexecutionGET.png)
+
+BC Shipping: POST y GET
+
+![image](Imagenes/shippingexecutionPOST.png)
+
+![image](Imagenes/shippingexecutionGET.png)
+
+BC Transaction: POST y GET
+
+![image](Imagenes/transactionexecutionPOST.png)
+
+![image](Imagenes/transactionexecutionGET.png)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
