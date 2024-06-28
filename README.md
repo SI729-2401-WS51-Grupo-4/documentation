@@ -2607,6 +2607,8 @@ En resumen, este sprint fue fundamental para establecer una base sólida y avanz
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
+Link: [ http://localhost:8090/swagger-ui/index.html# ]
+
 Durante este sprint, logramos implementar con éxito el front-end en Angular y desplegarlo en Firebase. Definimos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones y Perfil. Implementamos políticas de CORS para una comunicación segura y un robusto sistema de autenticación. Mejoramos la gestión de datos utilizando JSON en el back-end.
 
 BC Publication: POST y GET
@@ -2659,6 +2661,8 @@ Para acceder a los endpoints:
 ![image](Imagenes/authorize2.png)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Link: [ http://localhost:8090/swagger-ui/index.html# ] 
 
 Durante este sprint, logramos implementar con éxito nuestro front-end en Angular y desplegarlo en Firebase. También estructuramos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones y Perfil. Implementamos políticas CORS para la comunicación segura entre front-end y back-end, junto con un sistema robusto de autenticación para registro y acceso seguro. Optimizamos el manejo de datos utilizando JSON en el back-end. Este sprint fue crucial para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos.
 
@@ -2764,7 +2768,9 @@ IAM:
 
 En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
 
-## Landing Page
+## Landing Page & Front End
+
+LINK [ https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/pulse ]
 
 Actividades Realizadas:
 
@@ -2786,6 +2792,8 @@ Actividades Realizadas:
 ![image](Imagenes/event-wear-front-traffics.png)
 
 ## Web Services
+
+LINK: [ https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform/pulse ]
 
 Actividades Realizadas:
 
