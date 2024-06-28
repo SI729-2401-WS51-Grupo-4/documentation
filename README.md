@@ -2610,11 +2610,12 @@ BC Category: POST y GET
 
 BC Shipping: POST y GET
 
-![image]("Imagenes/bc-shipping1.png")
 
-![image]("Imagenes/bc-shipping2.png")
+![image](Imagenes/bc-shipping1.png)
 
-![image]("Imagenes/bc-shipping3.png")
+![image](Imagenes/bc-shipping2.png)
+
+![image](Imagenes/bc-shipping3.png)
 
 BC Transaction: POST y GET
 
