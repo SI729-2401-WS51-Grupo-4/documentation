@@ -2339,6 +2339,8 @@ Home: [Enlace](https://envios-e3810.web.app/home)
 
 En este sprint del proyecto Event-Wear-platform, en el backend se logró establecer la configuración inicial del repositorio y avanzar en la implementación de varios bounded contexts. Se desarrollaron y mejoraron funcionalidades clave en los contextos de renta, envíos, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se realizaron correcciones importantes en la lógica y estructura del código, estableciendo una base sólida para el desarrollo continuo del backend del proyecto.
 
+Link del repositorio: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
 | AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 5b20f9c | chore: initial commit |  | 25/05/24 |
@@ -2406,37 +2408,27 @@ Para el sprint 3 desarrollamos el acceptance test en gherkin de las user stories
 
 Para este sprint se realizo parcialmente el backend. Los Endpoints del bounded context de Publication y Rent ya estan completos. Los bounded context de Shipping, Categories, Transactions se desarrollaron parcialmente. Tambien, unimos todos nuestros bounded context del Frontend.
 
-Endpoints del Bounded Context Publication:
+Endpoints del Bounded Context IAM:
 
-![image](Imagenes/EvidenceSprint3.jpg)
+![image](Imagenes/sign-up-evidence.jpg)
 
-![image](Imagenes/evidence-publication.jpg)
+![image](Imagenes/sign-in-evidence.jpg)
+
+Endpoints del Bounded Context Publications:
+
+![image](Imagenes/create-publication-evidence.jpg)
+
+![image](Imagenes/all-publications.jpg)
 
 Enpoints del Bounded Context Rent:
 
-![image](Imagenes/evidence-shopping-exec.jpg)
+![image](Imagenes/add-shopping.jpg)
 
-![image](Imagenes/evidence-shopping.jpg)
+![image](Imagenes/get-cartItems.jpg)
 
 Enpoints del Bounded Context Category:
 
-![image](Imagenes/RestfullCategoria.png)
-
-![image](Imagenes/CodeCategoria.png)
-
-Frontend con todos los bounded context:
-
-![image](Imagenes/execution-frontend.jpg)
-
-![image](Imagenes/exec-frontend-publication.jpg)
-
-![image](Imagenes/exec-frontend-categorias.jpg)
-
-![image](Imagenes/exec-frontend-pagos-realizados.jpg)
-
-![image](Imagenes/exec-frontend-carrito.jpg)
-
-![image](Imagenes/exec-frontend-lista-envios.jpg)
+![image](Imagenes/add-category.jpg)
 
 Enlace al repositorio del Frontend: https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-front
 
@@ -2491,13 +2483,6 @@ Se ha completado la documentación de diez endpoints clave que abarcan diversas 
 | GET    | /api/v1/publications/all-comments                   | Obtiene todos los comentarios.                            | OK (200)                                                     |
 | DELETE | /api/v1/publications/{publicationid}/delete-publication | Elimina una publicación específica.                        | OK (200)                                                     |
 
-##### Bounded Context Transaction
-
-En proceso
-
-##### Bounded Context Shopping
-
-En proceso
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
@@ -2649,6 +2634,33 @@ En este sprint del proyecto Event-Wear-platform, en el frontend se avanzó signi
 | AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 8ef48342a67b250e996ef73a34068725ecfb8b8e | fix: values null |  | 27/06/24 |
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+Para el sprint 4, no hubo muchos cambios significativos en cuanto a la funcionalidad principal, por lo tanto, seguimos utilizando los mismos testings desarrollados en el sprint 3. Estos tests han sido esenciales para asegurar la calidad y estabilidad del sistema a medida que avanzamos en el proyecto.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test | main | 6bdde6e | feat: added US01 "Registro de usuario" | feat: added US01 "Registro de usuario" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US03 "Inicio de sesión" | feat: added US03 "Inicio de sesión" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US04 "Configuracion de perfil inicial" | feat: added US04 "Configuracion de perfil inicial" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US05 "Busqueda de prendas en la aplicacion" | feat: added US05 "Visualizar todas mis publicaciones" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US06 "Agregar filtros de busqeuda avanzada" | feat: added US06 "Agregar filtros de busqeuda avanzada" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US08 "Ver detalles de la prenda" | feat: added US08 "Ver detalles de la prenda " | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US10 "Ver seccion de alquiler en la aplicacion" | feat: added US10 "Ver seccion de alquiler en la aplicacion " | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US11 "Realizar alquiler de prendas" | feat: added US11 "Realizar alquiler de prendas" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US12 "Crear una nueva publicacion" | feat: added US12 "Crear una nueva publicacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US14 "Ayuda con problemas en la aplicacion" | feat: added US14 "Ayuda con problemas en la aplicacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US15 "Asesoramiento sobre moda sostenible" | feat: added US15 "Asesoramiento sobre moda sostenible" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US16 "Recopilacion de la informacion" | feat: US16 "Recopilacion de la informacion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US17 "Beneficios al consumidor" | feat: added US17 "Beneficios al consumidor" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US18 "Seccion "Segmentos"" | feat: US18 "Seccion "Segmentos"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US19 "Seccion "Nosotros"" | feat: added US19 "Seccion "Nosotros"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US20 "Seccion "Header"" | feat: added US20 "Seccion "Header"" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US22 "Seccion "Colaboracion" | feat: added US22 "Seccion "Colaboracion" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US23 "Seccion "Footer" | feat: added US23 "Seccion "Footer" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US24 "Ver carrito de compras" | feat: added US24 "Ver carrito de compras" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added US25 "Visualizar lista de envios" | feat: added US25 "Visualizar lista de envios| 15/05/2024 |
+|     |     | 6bdde6e | feat: added US26 "Ver todas las categorias" | feat: added US26 "Ver todas las categorias" | 15/05/2024 |
+|     |     | 6bdde6e | feat: added us02 "Verificacion de correo electronico" | feat: added us02 "Verificacion de correo electronico" | 15/05/2024 |
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
