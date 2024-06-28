@@ -2603,6 +2603,51 @@ En resumen, este sprint fue fundamental para establecer una base sólida y avanz
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
+Link: [https://github.com/SI729-2401-WS51-Grupo-4/Event-Wear-platform/commits/main]
+
+En este sprint del proyecto Event-Wear-platform, en el frontend se avanzó significativamente con Angular, implementando mejoras en la interfaz de usuario y en la experiencia del usuario. En el backend, se completó la configuración inicial del repositorio y se avanzó en la implementación de varios bounded contexts, incluyendo renta, envíos, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se llevaron a cabo correcciones importantes en la lógica y estructura del código, consolidando una base robusta para el desarrollo continuo del backend del proyecto.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | c35b50458cec193db6fc0df492e191f0f9dd0abf | feat add Shipping |  | 10/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | fe27086f3e1f49c96deb59cbd65c47004c1d4079 | Delete target/classes directory |  | 19/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | d58002837203bf2c454c1806196f2fddd3692b38 | Delete src directory |  | 19/06/24 | 
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | a2a2a0d8d4db755dfd612d21f11bd68e7d2b2f65 | Add files via upload |  | 19/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 50c8853553b12fd9675d1c64d7344494b0c45ad9 | Add files via upload |  | 19/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 3634512eb2c047d3c5ca93315925ef8eaa3785d3 | Add files via upload |  | 19/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | da397ba88e9fdcaac49c572fc3dda786915b53a3 | Add: added BC User whit iam |  | 20/06/24 |
+| U202211390/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/rent | b2279b8d83dfb1f9faf20e2f16df086a1165f458 | feat: added new structure |  | 20/06/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 2fc75337bfb134f4d0f6aef8f91fc79455e7c828 | Delete src directoryd |  | 21/06/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 06d38fc6462ee4a8a4144128f92bb6c22b70b26c | Add files via upload |  | 21/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 2f350e4bfbb8253edc66768ea7fd000962ac37f1 | Add files via upload |  | 21/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | ddcd00ffca43a4e628e18c7aa912e519fdbf561f | Add files via upload |  | 21/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 0f5b58e4a97c1df2728c215b9d898dca12ee9ba0 | Add files via upload |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 539135625f003e15466986164cf72bf4624425e7 | feat: added iam |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 1b2c7fff141d962f2e71549d36798406484d67ae | Merge branch 'main' into feature/publications |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 5bb6dec50d30562ee3c9ad3572552a2e9f49ed7d | Merge pull request #2 from SI729-2401-WS51-Grupo-4/feature/publications |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | affb125fb7a4212da1046e7bba3fcaf3c908d436 | Merge branch 'main' into feature/Shipping |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | a43c58f65fd8807ffe0a1e1db88eb14c9dc38e48 | Merge pull request #3 from SI729-2401-WS51-Grupo-4/feature/Shipping |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 74886cbb57308b7dc947d1ac1480532e2b403657 | Merge branch 'main' into feature/transactions |  | 26/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | e31dc4d8753f81c8b366bd72dd00cf57c5a8396a | Merge pull request #6 from SI729-2401-WS51-Grupo-4/feature/transactions |  | 26/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/categories | 537c0b4de2546b72b7151ceba70f3556030cef17 | feat: category platform update endpoints correction & validate on Database |  | 26/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/categories | dca7df17e4265200e3101d7f6323e2d560cee440 | feat: Update Category backend |  | 26/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/categories | 68c0da97258dc555240afd2b845a47c576b752d9 | feat: Final Update Category RESTFUL BACKEND |  | 27/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | 0ec4c2fb68d99f6b482765f741ab49a3a0c7faf7 | Add files via upload |  | 27/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/transactions | 5f8c40203308afb3ca2de4d39e59158476385836 | Add files via upload |  | 27/06/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/shipping | 72b3c610666831d265c13afdbed5ae3c54178f14 | update application |  | 27/06/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/shipping | ac01c7fc818b44e6eeef44a5720c9176786faba2 | Add files via upload |  | 27/06/24 |
+| Joaqquin0/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | feature/shipping | 13c59e7bebf0a1ca5f578b9886e501b30c3553ec | update interfaces |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | c33d1b9828c4983b3d2049d2203808264de0b56a | feat: project with all parties |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | ce014488538e957fab76fc1b72b6206b90192316 | feat: added transactions |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | f7297c4b13bbbcf7c84b0ecdee4bdc89e9ca43b9 | feat: added endpoint of categories |  | 27/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 02fa14e2988fbac55fa5e5c6612650c1e140e020 | Update TransactionController.java |  | 27/06/24 |
+| christopherMore1/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 2b86e1b0057e946cb3c83d636c548bf00a6e73d1 | Update TransactionHistoryController.java |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | ae914a581b5b6707063e653b25dcaa439a8cff3e | fix: profiles |  | 27/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | c28fc2131aef00b97d808703866915c2fe970108 | Add files via upload |  | 27/06/24 |
+| TonyRamosNajar/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | accc0c93f4412467d0bd5fa53b8e3d5b8f3f4529 | Update Category.java |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | c92e544dc60d0dbbafaa41bbf71e41234325932f | feat: added sign up |  | 27/06/24 |
+| AdrianoSCruzP/ SI729-2401-WS51-Grupo-4 /Event-Wear-platform | main | 8ef48342a67b250e996ef73a34068725ecfb8b8e | fix: values null |  | 27/06/24 |
+
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
