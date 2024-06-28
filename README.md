@@ -2719,6 +2719,52 @@ transaction-history-controller
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
+
+## Landing Page
+
+Actividades Realizadas:
+
+**Diseño y Maquetación**: Se completó el diseño inicial de la Landing Page utilizando Figma.
+**Desarrollo Frontend**: Implementación de la página de inicio utilizando Angular y componentes reutilizables.
+
+![image](Imagenes/event-wear-front-pulse.png)
+
+#### Contributors:
+
+![image](Imagenes/event-wear-front-contributors.png)
+
+#### Commits:
+
+![image](Imagenes/event-wear-front-commits.png)
+
+#### Traffics:
+
+![image](Imagenes/event-wear-front-traffics.png)
+
+## Web Services
+
+Actividades Realizadas:
+
+**Desarrollo Backend**: Implementación de APIs RESTful para soportar las funcionalidades de las aplicaciones web.
+**Seguridad y Autenticación**: Integración de JWT para la autenticación de usuarios en las APIs.
+**Monitoreo y Mantenimiento**: Configuración de herramientas de monitoreo para asegurar la disponibilidad de los servicios.
+
+![image](Imagenes/event-wear-platform-pulse.png)
+
+#### Contributors:
+
+![image](Imagenes/event-wear-platform-contributors1.png)
+![image](Imagenes/event-wear-platform-contributors2.png)
+
+#### Commits:
+
+![image](Imagenes/event-wear-platform-commits.png)
+
+#### Traffics:
+
+![image](Imagenes/event-wear-platform-traffics.png)
+
 ### 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
