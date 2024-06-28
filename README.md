@@ -2547,7 +2547,7 @@ Products
 
 ####     2.4. Sprint 4
 
-#####         **2.3.1. Sprint Planning 3.**
+#####         **2.3.1. Sprint Planning 4.**
 | Sprint 3                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                         |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background       |
@@ -2557,9 +2557,9 @@ Products
 | Prepared By                      | 	                                                                                                                                     |
 | PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
 | Sprint n - 1 Review                |
-| Resumen                          |  |
+| Resumen                          | Se desarrollar las RESTfull APIs planteadas en las historias de usuario del developer, entre las cuales podemos encontrar API de Publication, Rent, Shipping, Category y Transaction  |
 | Sprint n - 1 Retrospective        |
-| Resumen                          | .
+| Resumen                          |   Se logro completar parcialmente la maría de API establecidas según nuestras historias de usuario, consideramos agregar más operaciones CRUD, con el fin de contar con un mayor numero de funcionalidades en nuestra aplicación. |
 | **Sprint Goal & User Stories**   | 
 | Sprint n Goal |Implementar las funcionalidades de configuración de información del usuario, mostrar información detallada de la prenda, chat con los arrendadores y atención al cliente. El cumplimiento del objetivo del sprint se medirá mediante la cantidad de historias de usuario completadas relacionadas con las funcionalidades mencionadas anteriormente. Se considerará que el sprint ha sido exitoso si todas las historias de usuario identificadas para estas funcionalidades se completan satisfactoriamente dentro del período del sprint. |
 | Sprint 4 Velocity                |  points                                                                                                                                                            |
