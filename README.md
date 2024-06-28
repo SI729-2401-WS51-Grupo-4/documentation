@@ -2623,6 +2623,23 @@ BC Transaction: POST y GET
 
 ![image](Imagenes/transactionsexecutionGET.png)
 
+IAM: POST
+
+Para registrarte:
+
+![image](Imagenes/iamexecutionPOST1.png)
+![image](Imagenes/iamexecutionPOST11.png)
+
+Para ingresar con tu credencia registrada:
+
+![image](Imagenes/iamexecutionPOST2.png)
+![image](Imagenes/iamexecutionPOST22.png)
+
+Para acceder a los endpoints:
+
+![image](Imagenes/authorize1.png)
+![image](Imagenes/authorize2.png)
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 Durante este sprint, logramos implementar con éxito nuestro front-end en Angular y desplegarlo en Firebase. También estructuramos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones y Perfil. Implementamos políticas CORS para la comunicación segura entre front-end y back-end, junto con un sistema robusto de autenticación para registro y acceso seguro. Optimizamos el manejo de datos utilizando JSON en el back-end. Este sprint fue crucial para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos.
@@ -2714,6 +2731,14 @@ transaction-history-controller
 | POST   | /api/v1/transactionHistories             | Crea un historial de transacciones                              | OK (200)                                                     |
 | GET    | /api/v1/transactionHistories/{transactionHistoryId}                 | Obtiene el historial de transacciones por ID        | OK (200)                                                     |
 
+IAM:
+
+![image](Imagenes/IAM.png)
+
+| Método | Endpoint                                             | Descripción                                                | Response                                                     |
+|--------|------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
+| POST    | /api/v1/authentication/sign-up | Metodo para poder registrarte con usuario y contraseña, ademas de introducir un rol (POR DEFECTO: "ROL_USER"                      | OK (200)                                                     |
+| POST   | /api/v1/authentication/sign-in    | Metodo para iniciar sesión, debes introducir los credenciales con los que te registraste para que te cree un TOKEN de acceso                    | OK (200)                                                     |
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
