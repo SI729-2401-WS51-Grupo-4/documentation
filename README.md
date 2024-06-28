@@ -2610,9 +2610,11 @@ BC Category: POST y GET
 
 BC Shipping: POST y GET
 
-![image]("https://i.ibb.co/H7stF70/imagen-2024-06-27-193233569.png")
+![image]("Imagenes/bc-shipping1")
 
-![image]("https://i.ibb.co/RQKTPK0/imagen-2024-06-27-193356680.png")
+![image]("Imagenes/bc-shipping2")
+
+![image]("Imagenes/bc-shipping3")
 
 BC Transaction: POST y GET
 
