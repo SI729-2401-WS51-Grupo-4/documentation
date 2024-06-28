@@ -2764,6 +2764,41 @@ IAM:
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
+Durante este sprint, se estableció la conexión entre el frontend (Angular en IntelijIdea) y el backend (Javascrip en IntelijIdea) utilizando PostgreSQL como base de datos para el módulo de Categorías, Envíos, Rentas, Publicaciones y Transacciones. Se configuraron CORS y se desplegó el frontend en Firebase, asegurando operaciones CRUD funcionales y seguras.
+
+Para empezar, vemos el FrontEnd Deployado:
+
+![image](Imagenes/deployment1.png)
+
+![image](Imagenes/deployment2.png)
+
+Nos dirigiremos a la opción de "sign up" para que podamos Registrarnos, y posteriormente poder utilizar todas las funciones. El registro de usuario nos permitirá crear credenciales de acceso con usuario y contraseña para posteriormente en el "sign in" poder acceder a todas las opciones
+
+![image](Imagenes/deploymentsignup.png)
+
+Creamos nuestro usuario y contraseña con : "lorenzo1", "garcia1", respectivamente. Posteriormente podemos ir a la sección de "sign in" para iniciar sesión:
+
+![image](Imagenes/deploymentsignin.png)
+
+![image](Imagenes/deploymentsignin1.png)
+
+Una vez logeado con nuestro usuario y contraseña, se mostrará el usuario logeado previamente en la parte superior derecha con un mensaje de bienvenida: "welcome, [usuario_registrado]", en mi caso es "lorenzo1"
+
+![image](Imagenes/deploymentsignin2.png)
+
+A partir de este momento, ya podemos hacer uso de nuestra aplicación web, debido a que habilitará todos los Endpoints disponibles en nuestro Backend.
+
+Por ejemplo, hagamos uso de la sección Categoria:
+
+![image](Imagenes/deploymentcategory1.png)
+
+![image](Imagenes/deploymentcategory2.png)
+
+Podremos ver las catogorias creadas en nuestro front debido al endpoint de obtener categoria que esta por defecto implementado, posteriomente podremos hacer uso de los demas endpoints. Finalmente, verificamos en la base de datos (Postgres) que la categoria creada en el front, tenga correlación con los parametros del backend y esté envíe la solicitud de CreateCategory a la base de datos, a continuación una imagen de las categorías mostradas en el front tiene relación con lo posteado en la Base de datos:
+
+![image](Imagenes/deploymentdatabase.png)
+
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
 En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
