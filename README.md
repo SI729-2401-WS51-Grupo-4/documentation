@@ -2580,7 +2580,26 @@ En el aspecto técnico, optimizamos la gestión de datos utilizando JSON en el b
 
 En resumen, este sprint fue fundamental para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos. Estamos entusiasmados con los logros alcanzados y preparados para seguir evolucionando y mejorando en los próximos pasos del proyecto.
 
-# FALTA CUADRO IMPLEMENTAR
+
+- **Link del trello :** [![imagen-2024-06-27-200418076.png](https://i.postimg.cc/JzCSD1ZV/imagen-2024-06-27-200418076.png)](https://postimg.cc/dLn5gc54)
+ 
+
+| Sprint # | Sprint 4 |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |   | Work-Item / Task |   |   |   |   |   |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / To-Review / Done) |
+| US11 | Realizar alquiler de prendas | TA001 | Desarrollar la Entidad de alquiler de prendas |   | 4 horas |   | Done |
+|   |   | TA002 | Crear la entidad modelo | Crear la entidad modelo que represente el alquiler de una prenda en la base de datos, incluyendo atributos como fecha de inicio, fecha de fin, estado del alquiler, etc. | 4 horas |   | Done |
+|   |   | TA003 | Diseñar la interfaz de servicio | Diseñar la interfaz de servicio para el alquiler de prendas | 4 horas |   | Done |
+|   |   | TA004 | Definir los métodos necesarios en la interfaz del servicio | Definir los métodos necesarios en la interfaz del servicio para manejar el alquiler de prendas | 4 horas |   | Done |
+|   |   | TA005 | Implementar el servicio de alquiler de prendas |   | 5 horas |   | Done |
+|   |   | TA006 | Implementar los métodos del servicio | Realizar la implementación de los métodos definidos en el servicio que permitirá a los usuarios alquilar prendas | 5 horas |   | Done |
+|   |   | TA007 | Crear el Comando para realizar el alquiler de prendas |   | 6 horas |   | Done |
+|   |   | TA008 | Desarrollar la lógica de negocio | Desarrollar la lógica de negocio necesaria para procesar el alquiler de una prenda utilizando el patrón Command | 4 horas |   | Done |
+|   |   | TA009 | Configurar JPA y repositorio | Configurar JPA y el repositorio para gestionar el alquiler de prendas | 4 horas |   | Done |
+|   |   | TA010 | Crear las clases del repositorio JPA | Crear las clases del repositorio JPA necesarias para manejar la persistencia de los datos relacionados con el alquiler de prendas | 4 horas |   | Done |
+|   |   | TA011 | Realizar pruebas unitarias e integración |   | 4 horas |   | Done |
+|   |   | TA012 | Implementar los métodos del servicio de alquiler de prendas |   | 5 horas |   | Done |
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
@@ -2611,11 +2630,10 @@ BC Category: POST y GET
 BC Shipping: POST y GET
 
 
-![image](Imagenes/bc-shipping1.png)
+[![imagen-2024-06-27-193820154.png](https://i.postimg.cc/wxFMrgsc/imagen-2024-06-27-193820154.png)](https://postimg.cc/14nynxBf)
 
-![image](Imagenes/bc-shipping2.png)
 
-![image](Imagenes/bc-shipping3.png)
+[![imagen-2024-06-27-193905272.png](https://i.postimg.cc/1XP8xz9s/imagen-2024-06-27-193905272.png)](https://postimg.cc/HcZYXdch)
 
 BC Transaction: POST y GET
 
